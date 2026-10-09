@@ -1302,6 +1302,16 @@ file = "resourcepacks/amethyst-isolation/pack.png"
 hash = "a268cc32cb873e4769f95b2e626aec47369425081780ab9abff87a37e9795126"
 
 [[files]]
+file = "resourcepacks/redstone-torch-backport.pw.toml"
+hash = "d843920204289dce7dfc49c611f382a2f692f0d9a0737e08a1efe9948bebb085"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rstorch-backport-mod-supporter.pw.toml"
+hash = "9979572ab54cd9f008e07e9d48a5d07c0ddfb94de100334652ee1151f74b0c36"
+metafile = true
+
+[[files]]
 file = "resourcepacks/unifont-16.0.04.ttf"
 hash = "6b18fdcf0f61f3df2e61db9737af6de9f37048ec93083621d41504ebf8cb18f4"
 

@@ -1,0 +1,13 @@
+name = "Redstone Torch Backport Supporter"
+filename = "RST Backport Supporter §cv1.4§r.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/81HKpFAE/versions/4qPUQJlz/RST%20Backport%20Supporter%20%C2%A7cv1.4%C2%A7r.zip"
+hash-format = "sha512"
+hash = "dd6e5a0ec05e5f149ad9057d22a75482696dd73c4489cfd79a2a7567a7dbb5646dcf5d282efd569b79ce8a60be2836140c0f3b8a90e8df61a9aca6f6a810067e"
+
+[update]
+[update.modrinth]
+mod-id = "81HKpFAE"
+version = "4qPUQJlz"
