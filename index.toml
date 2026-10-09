@@ -1,0 +1,110 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/adaptive-tooltips.json"
+hash = "6a43dfe45f0ffb0fa639145b174bd6f3249b4abc11f43da95fd67cacf43f7271"
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "28ec0fe825391261f68b2de4f7719f29dbc7b8c5a02876e6acfde975375cf3f4"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic/ambient-fireflies.pw.toml"
+hash = "e27f48a07d8e520787009e020ceb417c433a14d591c48ae00215915382b5e60c"
+metafile = true
+
+[[files]]
+file = "mods/extrafolders.pw.toml"
+hash = "d0babc9512a45bfc7ac8fcd475a9b87389f5dde1b53c3ce24deb8197fe3156e5"
+metafile = true
+
+[[files]]
+file = "mods/libs/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
+file = "mods/libs/collective.pw.toml"
+hash = "4eb6c45b1610715e25f6070d445a3dc9322c1f66197f0cb6d1158a9d62cba786"
+metafile = true
+
+[[files]]
+file = "mods/libs/connector-extras.pw.toml"
+hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
+metafile = true
+
+[[files]]
+file = "mods/libs/forgified-fabric-api.pw.toml"
+hash = "834dfc3eac7e8cbfe203578f1120ba298711f0426133950ce8972f5afc025a4d"
+metafile = true
+
+[[files]]
+file = "mods/libs/yacl.pw.toml"
+hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
+metafile = true
+
+[[files]]
+file = "mods/optim-foundation/adaptive-tooltips.pw.toml"
+hash = "9e56c813c3000384bbb06f72500ea95b4407cd710143840a4a41440dbf1d8a1c"
+metafile = true
+
+[[files]]
+file = "mods/optim-foundation/alternate-current.pw.toml"
+hash = "b9e6e6a4a26ff1421620ea6cd99c0be1caaa66a1277c8cc72d2f64443be1fbcf"
+metafile = true
+
+[[files]]
+file = "mods/optim-foundation/better-advancements.pw.toml"
+hash = "23fdf44b148ca550c78d1125d24ed0a6c04b0d47a3c391d0b9a1567a50ffd58a"
+metafile = true
+
+[[files]]
+file = "mods/optim-foundation/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/optim-optional/accelerated-recoiling.pw.toml"
+hash = "069bbf7ea4a127dd3de3eaf9428531e399136346a32765d2b808fd335029d717"
+metafile = true
+
+[[files]]
+file = "mods/optim-optional/accelerated-rendering.pw.toml"
+hash = "28ab481e34a4088ee8b52aa0f5aaab32fe871ca0190d44cf8d0dd59f6bb712d0"
+metafile = true
+
+[[files]]
+file = "mods/optim-optional/ai-improvements.pw.toml"
+hash = "a2c8b09b27514ebbf069afb6b28e5adb643c333dda0668b118e54bd949910ec5"
+metafile = true
+
+[[files]]
+file = "mods/optim-optional/alltheleaks.pw.toml"
+hash = "7b112d9281dc3bf615e7f2eac0fac8f42688b3239c2ddd5e448c9588638b0a09"
+metafile = true
+
+[[files]]
+file = "mods/optim-optional/async-locator.pw.toml"
+hash = "50e84c4b402d1772d2fea803812074b2946dac2a6b85944bfb5af37fd0db082c"
+metafile = true
+
+[[files]]
+file = "mods/optim-optional/asyncparticles.pw.toml"
+hash = "bb3ef259006126bd0533fee1abcc2b5db6ac812f3960d8c82b4f221055b06051"
+metafile = true
+
+[[files]]
+file = "mods/optim-optional/badoptimizations.pw.toml"
+hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/anvil-restoration.pw.toml"
+hash = "29d5733e144337a045ee6a41436973c07f7fbce8709ee74702ddcd0da86d0a0b"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/elytrabombing.pw.toml"
+hash = "cd9d2c0471aecff1603cddab7cb297bd578c38694028a3c19b59f2429051cf09"
+metafile = true

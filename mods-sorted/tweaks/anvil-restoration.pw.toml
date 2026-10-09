@@ -1,0 +1,13 @@
+name = "Anvil Restoration"
+filename = "anvilrestoration-1.20.1-2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bd8nwTGy/versions/YoZQOY0h/anvilrestoration-1.20.1-2.6.jar"
+hash-format = "sha512"
+hash = "854e7335263cab38e52dfca6d891c4a6bf1dd91fe7b9433ed6713c74b942c8839a6bf36f3edcd65a05f0edbd7a8140fd4bbbad7af1c84ef3711fc6c4618f7e10"
+
+[update]
+[update.modrinth]
+mod-id = "bd8nwTGy"
+version = "YoZQOY0h"

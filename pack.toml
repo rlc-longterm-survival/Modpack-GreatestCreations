@@ -1,0 +1,13 @@
+name = "Greatest Creations - Twenty"
+author = "yezhiyi0562@foxmail.com"
+version = "3.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cf0f3e7ad146e1b1463d6affe614132d52a81f99bd8f7e7c12f4007a46219487"
+
+[versions]
+forge = "47.4.20"
+minecraft = "1.20.1"
