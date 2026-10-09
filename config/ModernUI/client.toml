@@ -1,3 +1,9 @@
 
 [font]
 	firstFontFamily = "Unifont"
+
+[tooltip]
+	enable = false
+
+[general]
+	zoom = false

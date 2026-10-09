@@ -14,7 +14,7 @@ hash = "4963b0e10beea003aeb484072a9eb6f2fea2ea503adadf5d4de1a63e1c66d638"
 
 [[files]]
 file = "config/ModernUI/client.toml"
-hash = "98e41440a0ea9d7d53d11ce78a3c192f9f9f4b248fb0d814b49835b145f3ef06"
+hash = "2d46249b429dbd38cb3ff1472fdd578f06a939ddca6f48b25f9fc1390dc3dd56"
 
 [[files]]
 file = "config/ModernUI/text.toml"
