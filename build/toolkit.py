@@ -23,11 +23,13 @@ There is no fallback to hardlinks or copies: if link creation is refused
 from __future__ import annotations
 
 import argparse
+import json
 import os
 import shutil
 import sys
 from pathlib import Path
 from typing import NoReturn
+import tomllib
 
 DISABLED_SUFFIX = ".disabled"
 
@@ -283,6 +285,21 @@ def cmd_prune(args: argparse.Namespace) -> None:
             remove_empty_parents(path.parent, source)
     print(f"removed {removed} file(s)")
 
+# --------------------------------------------------------------------------- #
+# config writing
+# --------------------------------------------------------------------------- #
+
+def cmd_write_config(args: argparse.Namespace):
+    with open("pack.toml", "rb") as f:
+        data = tomllib.load(f)
+    pack_name = data['name']
+    version = data['version']
+    mc_version = data['versions']['minecraft']
+    title = f'{pack_name} {version} (Minecraft* {mc_version})'
+    open('config/customwindowtitle-client.toml', 'w', encoding='utf-8').write(
+        f'title = {json.dumps(title)}\n'
+    )
+    print('Derived MC config generated.')
 
 # --------------------------------------------------------------------------- #
 # command line
@@ -337,10 +354,20 @@ def build_parser() -> argparse.ArgumentParser:
     )
     prune.set_defaults(func=cmd_prune)
 
+    write_config = subparsers.add_parser(
+        "write-config",
+        help="generate derived MC config files",
+    )
+    write_config.set_defaults(func=cmd_write_config)
+
     return parser
 
 
 def main(argv: list[str] | None = None) -> int:
+    if not os.path.exists('pack.toml'):
+        print('Toolkit can only be run in modpack root dir.', file=sys.stderr)
+        return 2
+
     args = build_parser().parse_args(argv)
     args.func(args)
     return 0

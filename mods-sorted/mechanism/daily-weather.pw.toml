@@ -1,0 +1,13 @@
+name = "Daily Weather"
+filename = "dew_drop_daily_weather-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fhMjR3no/versions/RZrtnjL4/dew_drop_daily_weather-1.1.1.jar"
+hash-format = "sha512"
+hash = "6433b6bdad322a48dd2b89e5fa82b6c533201730e44517bb6802c073961d4f53c0515b1d36aeb6b6bc20a96a42d66eab04302a13707200c5faf221ad9110e038"
+
+[update]
+[update.modrinth]
+mod-id = "fhMjR3no"
+version = "RZrtnjL4"

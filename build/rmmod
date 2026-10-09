@@ -7,6 +7,9 @@ if (( $# < 1 )); then
     exit 1
 fi
 
+echo ======== Flatten ========
 python build/toolkit.py flatten mods
+echo ======== Remove ========
 packwiz remove "$@" 
+echo ======== Sort ========
 python build/toolkit.py dangerously-prune -f mods

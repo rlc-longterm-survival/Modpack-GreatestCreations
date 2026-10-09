@@ -1,0 +1,13 @@
+name = "Bot's Lib"
+filename = "bots_lib-4.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Oeb74GyG/versions/urq2dtIf/bots_lib-4.1.1.jar"
+hash-format = "sha512"
+hash = "4eb5b650ba0c01c982cc37f3252743e76b2278b62447ea4f407a076a76929164cb270e070c1303bdeb7dae13ce0f55cc54381705ceb376f6d3a7396c137185f1"
+
+[update]
+[update.modrinth]
+mod-id = "Oeb74GyG"
+version = "urq2dtIf"

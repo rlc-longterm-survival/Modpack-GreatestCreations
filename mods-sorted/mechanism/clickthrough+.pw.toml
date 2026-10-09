@@ -1,0 +1,13 @@
+name = "ClickThrough Plus"
+filename = "clickthrough-plus-3.3+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fJi8nm80/versions/udzwczhU/clickthrough-plus-3.3%2B1.20.jar"
+hash-format = "sha512"
+hash = "b89a00f1395ca60fce9871720ddf175e754d10b09f24a8e2d09397bdc4a8c1179856e3113dc45d04ac8f501a5ff0deb11b475dbe1e7e679150da2f08b07fcd97"
+
+[update]
+[update.modrinth]
+mod-id = "fJi8nm80"
+version = "udzwczhU"

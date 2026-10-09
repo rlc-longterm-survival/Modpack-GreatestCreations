@@ -1,0 +1,13 @@
+name = "Xibao Plus Plus / 喜报++"
+filename = "XibaoPlusPlus-Fabric-0.2.0-release-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/h2xjHxOS/versions/olgugt0P/XibaoPlusPlus-Fabric-0.2.0-release-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "59824e221c35322ef61e17f7526de6d42fa1ec0ef58ff31ea2e5c0cb4c1e285976101564a67bf1b54295263b351592960f822d3b8c9663dffd214b99ff2e7a94"
+
+[update]
+[update.modrinth]
+mod-id = "h2xjHxOS"
+version = "olgugt0P"

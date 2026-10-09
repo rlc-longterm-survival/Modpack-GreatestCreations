@@ -1,0 +1,13 @@
+name = "Scaffolding Drops Nearby"
+filename = "scaffoldingdropsnearby-1.20.1-3.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uO522mgw/versions/7qwvCiFS/scaffoldingdropsnearby-1.20.1-3.6.jar"
+hash-format = "sha512"
+hash = "b42ce5202dec321656a884b992a431b86f64cf7debfb4331a6a637a1855e587aedca209b9ff9b02c90daa42832284ab84112fbbdd5866d133a69044015755f08"
+
+[update]
+[update.modrinth]
+mod-id = "uO522mgw"
+version = "7qwvCiFS"

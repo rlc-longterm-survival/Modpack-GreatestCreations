@@ -1,0 +1,13 @@
+name = "No Feather Trample"
+filename = "nofeathertrample-1.20.1-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VmGOLJeH/versions/NlUGxGCd/nofeathertrample-1.20.1-1.4.jar"
+hash-format = "sha512"
+hash = "61d4416059ff95994a7aad3828eb753da6bb07e5d5c50b69f2869c7bdcd14e0fd3649227cb2213caffe9fe530956cc18c937e42d81a202736e852bfc1f050112"
+
+[update]
+[update.modrinth]
+mod-id = "VmGOLJeH"
+version = "NlUGxGCd"

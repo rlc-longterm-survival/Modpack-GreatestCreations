@@ -1,0 +1,13 @@
+name = "HexConnect"
+filename = "hexconnect-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/auntLagT/versions/VOHFFwPM/hexconnect-1.0.2.jar"
+hash-format = "sha512"
+hash = "02fbaead96629c64fcd768b82b6bce7168500934e63d604f5db8c406e36db5c3c0f33bd72366d14bb9649c323a1238ad2233b1fa7b0e7846ce2656012b213d2d"
+
+[update]
+[update.modrinth]
+mod-id = "auntLagT"
+version = "VOHFFwPM"

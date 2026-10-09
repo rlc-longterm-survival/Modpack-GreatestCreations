@@ -1,0 +1,13 @@
+name = "Corner Portal Linking"
+filename = "starbidous-portal-linking-fabric-1.0.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77136cebe4c3746681f8a287c7fee560200693db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4623366
+project-id = 677716

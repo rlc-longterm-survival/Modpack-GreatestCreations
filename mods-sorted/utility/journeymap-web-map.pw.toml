@@ -1,0 +1,13 @@
+name = "JourneyMap  Web Map"
+filename = "journeymap-webmap-forge-1.20.1-1.0.12.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YaZ1fUTg/versions/5bpJ7X1S/journeymap-webmap-forge-1.20.1-1.0.12.jar"
+hash-format = "sha512"
+hash = "efe066e485ad7d23da7d44b1dc609b22c3a25e8c33390d89f51431f5327697728d6450e447e1dea5966ef0d8f46592a96921dce1faaddab9c2d8d6efc522fd01"
+
+[update]
+[update.modrinth]
+mod-id = "YaZ1fUTg"
+version = "5bpJ7X1S"

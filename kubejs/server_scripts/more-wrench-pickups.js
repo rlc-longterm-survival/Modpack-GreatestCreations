@@ -1,0 +1,37 @@
+ServerEvents.tags('block', event => {
+
+  event.add('create:wrench_pickup', 'supplementaries:relayer')
+  event.add('create:wrench_pickup', 'supplementaries:cog_block')
+  event.add('create:wrench_pickup', 'supplementaries:crank')
+  event.add('create:wrench_pickup', 'supplementaries:wind_vane')
+  event.add('create:wrench_pickup', 'supplementaries:crystal_display')
+  event.add('create:wrench_pickup', 'supplementaries:faucet')
+
+  event.add('create:wrench_pickup', 'hexcasting:impetus/empty')
+  event.add('create:wrench_pickup', '#hexcasting:impeti')
+  event.add('create:wrench_pickup', 'slate_work:listening_impetus')
+  event.add('create:wrench_pickup', 'oneironaut:sentinel_trap')
+  
+  event.add('create:wrench_pickup', 'hexcasting:directrix/empty')
+  event.add('create:wrench_pickup', '#hexcasting:directrices')
+  event.add('create:wrench_pickup', 'slate_work:trade_loci')
+  
+  event.add('create:wrench_pickup', 'hexcasting:slate')
+  event.add('create:wrench_pickup', 'complexhex:hexbox')
+  event.add('create:wrench_pickup', 'hexical:pedestal')
+  event.add('create:wrench_pickup', 'oneironaut:extradimensional_border')
+  event.add('create:wrench_pickup', 'slate_work:crafting_loci')
+  event.add('create:wrench_pickup', 'slate_work:redstone_loci')
+  event.add('create:wrench_pickup', 'slate_work:hotbar_loci')
+  event.add('create:wrench_pickup', 'slate_work:macro_loci')
+  event.add('create:wrench_pickup', 'slate_work:save_loci')
+  event.add('create:wrench_pickup', 'slate_work:fake_player_loci')
+  event.add('create:wrench_pickup', 'slate_work:speed_loci')
+  event.add('create:wrench_pickup', 'slate_work:ambit_loci')
+  event.add('create:wrench_pickup', 'slate_work:storage_loci')
+  event.add('create:wrench_pickup', 'slate_work:sentinel_loci')
+  event.add('create:wrench_pickup', 'slate_work:broadcaster_loci')
+  event.add('create:wrench_pickup', 'slate_work:accelerator_loci')
+  event.add('create:wrench_pickup', 'slate_work:mute_loci')
+
+})

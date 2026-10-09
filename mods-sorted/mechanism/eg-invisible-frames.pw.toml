@@ -1,0 +1,13 @@
+name = "Invisible Frames"
+filename = "eg-invisible-frames-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Ylb0Z81/versions/DRWBVCnE/eg-invisible-frames-1.0.0.jar"
+hash-format = "sha512"
+hash = "d9f126cd97027a7de98ec34523d7a246e765c2bd1688e2121131fba329bb97bc1260981baca3a332f00a917ce5c27167e27a1bd11051af148484c11746b90e5f"
+
+[update]
+[update.modrinth]
+mod-id = "8Ylb0Z81"
+version = "DRWBVCnE"

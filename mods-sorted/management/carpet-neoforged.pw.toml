@@ -1,0 +1,13 @@
+name = "Carpet: NeoForged"
+filename = "forge-carpet-1.20.1-1.0.8+v251027.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9406d0663d812ed2846a406cd902c6d64749fd8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7156876
+project-id = 1284716

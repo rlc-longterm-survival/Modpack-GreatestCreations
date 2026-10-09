@@ -1,0 +1,32 @@
+{
+  "version": "15.0.1",
+  "buildNumber": 40,
+  "loadlist": [
+    {
+      "name": "WMSDF MC Identity",
+      "type": "CustomSkinAPI",
+      "root": "https://mcskin.ak-ioi.com/csl/"
+    },
+    {
+      "name": "Mojang",
+      "type": "MojangAPI",
+      "apiRoot": "https://api.mojang.com/",
+      "sessionRoot": "https://sessionserver.mojang.com/"
+    },
+    {
+      "name": "LittleSkin",
+      "type": "CustomSkinAPI",
+      "root": "https://littleskin.cn/csl/"
+    }
+  ],
+  "enableTransparentSkin": true,
+  "forceLoadAllTextures": true,
+  "enableCape": true,
+  "threadPoolSize": 8,
+  "enableLogStdOut": false,
+  "cacheExpiry": 30,
+  "forceUpdateSkull": false,
+  "enableLocalProfileCache": false,
+  "enableCacheAutoClean": false,
+  "forceDisableCache": false
+}

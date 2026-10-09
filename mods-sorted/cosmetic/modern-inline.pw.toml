@@ -1,0 +1,13 @@
+name = "Modern Inline"
+filename = "ModernInline-forge-0.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aWx29eoy/versions/SECscDeB/ModernInline-forge-0.1.1.jar"
+hash-format = "sha512"
+hash = "fd9360632650d8cf01dedc8464bb716dee7f570fcea523ed12ba08a0ebaf0764f5e3b4fcb73ba8dad1084d5e59eedff6bdd3553021cd6c54f8c6f4e853edde54"
+
+[update]
+[update.modrinth]
+mod-id = "aWx29eoy"
+version = "SECscDeB"

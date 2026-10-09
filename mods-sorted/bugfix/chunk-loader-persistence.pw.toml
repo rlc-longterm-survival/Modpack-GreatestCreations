@@ -1,0 +1,13 @@
+name = "Chunk Loader Persistence"
+filename = "ChunkLoaderPersistence-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/50IORdAx/versions/Y0DCAvUP/ChunkLoaderPersistence-1.0.jar"
+hash-format = "sha512"
+hash = "0aaca952648556e32758ea69182ad6791d5ce4dcf861b268fe757dd1b5daa55004aa1d9f6590ddd97e219ebc8d567718883d58c6880c87801b6560c45299ea1a"
+
+[update]
+[update.modrinth]
+mod-id = "50IORdAx"
+version = "Y0DCAvUP"

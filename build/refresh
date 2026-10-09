@@ -6,5 +6,12 @@ if (( $# != 0 )); then
 fi
 
 set -eu -o pipefail
+
+echo ======== Flatten ========
 python build/toolkit.py flatten mods
+
+echo ======== Config writing ========
+python build/toolkit.py write-config
+
+echo ======== Index refresh ========
 packwiz refresh

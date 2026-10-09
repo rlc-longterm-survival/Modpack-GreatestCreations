@@ -1,4 +1,4 @@
-name = "Greatest Creations - Twenty"
+name = "Greatest Creations Twenty"
 author = "yezhiyi0562@foxmail.com"
 version = "3.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "05fb876cf6fb17c363330866812f758ba7f5e3995ddc0074011f8e4885681071"
+hash = "78f353200ef2778b8ea08a387b53caab434319f9f6871bc7706441b5d2b98786"
 
 [versions]
 forge = "47.4.20"

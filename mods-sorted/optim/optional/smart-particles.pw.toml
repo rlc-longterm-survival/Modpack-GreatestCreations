@@ -1,0 +1,13 @@
+name = "Smart Particles"
+filename = "smart_particles-20.1.10-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/l8rWP4Tc/versions/HfH0hvfy/smart_particles-20.1.10-Forge.jar"
+hash-format = "sha512"
+hash = "4cc19c9a9d09da029efdd785f8ef9d2ab88ba46794aad75a447ee910b0dcea7d8bb77d0873fe655366c1002ea1fa507b60bce288199686ee65c917623cb10a59"
+
+[update]
+[update.modrinth]
+mod-id = "l8rWP4Tc"
+version = "HfH0hvfy"

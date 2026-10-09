@@ -1,0 +1,13 @@
+name = "HexMinline"
+filename = "HexMinline-0.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/C95GNbrD/versions/OcVtlZ9F/HexMinline-0.1.1.jar"
+hash-format = "sha512"
+hash = "e0eed2ce3bf89f7a894c73d716315b4274062c65662175836ff3fe546f20bd0b71e5f6f6fe4356a069361bb18edb60f6b0a7ca8f8e9e61e4896987c264fbf1eb"
+
+[update]
+[update.modrinth]
+mod-id = "C95GNbrD"
+version = "OcVtlZ9F"

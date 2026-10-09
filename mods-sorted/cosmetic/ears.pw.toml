@@ -1,0 +1,13 @@
+name = "Ears"
+filename = "ears-buzz-forge-2.2.1-c.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/eNvnNxLB/ears-buzz-forge-2.2.1-c.jar"
+hash-format = "sha512"
+hash = "25ebbd7fe92487d4a79621dda242a3c39c8cabaa8f6859a7386bf9afe989af0e36f6efd0adff26c697fa11bdcddf46f6dd9b28b1c7bc79ea6a617da78ad21785"
+
+[update]
+[update.modrinth]
+mod-id = "mfzaZK3Z"
+version = "eNvnNxLB"

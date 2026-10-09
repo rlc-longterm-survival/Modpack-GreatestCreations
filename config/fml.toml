@@ -1,0 +1,2 @@
+# Super Resolution needs this in order to override OpenGL version
+earlyWindowControl = false

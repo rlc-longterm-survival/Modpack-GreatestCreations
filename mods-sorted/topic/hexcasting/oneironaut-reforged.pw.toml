@@ -1,0 +1,13 @@
+name = "Oneironaut Forge"
+filename = "oneironaut-reforgedv1.20.1 - 1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2fBodoPh/versions/GRqNesuS/oneironaut-reforgedv1.20.1%20-%201.0.5.jar"
+hash-format = "sha512"
+hash = "da613cd27e1c3e06d247dce7783cd1935f5969006e40f277c8015ee3ee4cfe7c4cbceab60a9bbd3c3d14f22d4207728e8f2f1102b27d739dd1349251c9ac8df3"
+
+[update]
+[update.modrinth]
+mod-id = "2fBodoPh"
+version = "GRqNesuS"

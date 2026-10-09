@@ -1,10 +1,3 @@
-defaultUncompletedIconColor = "#FFFFFF"
-defaultUncompletedTitleColor = "#0489C1"
-defaultCompletedIconColor = "#DBA213"
-defaultCompletedTitleColor = "#DBA213"
-doAdvancementsBackgroundFade = true
-showDebugCoordinates = false
-orderTabsAlphabetically = false
 #Values below 50% might give odd results, use on own risk ;)
 #Range: 1 ~ 100
 uiScaling = 75
@@ -15,13 +8,3 @@ uiScaling = 75
 #    All: Show both obtained and unobtained criteria
 criteriaDetail = "Default"
 criteriaDetailRequiresShift = true
-colorWholeCriteriaText = false
-#Range: 1 ~ 10
-criteriaRotationSpeed = 3
-addInventoryButton = false
-defaultDrawDirectLines = false
-defaultHideLines = false
-defaultCompletedLineColor = "#FFFFFF"
-defaultUncompletedLineColor = "#FFFFFF"
-onlyUseAboveAdvancementTabs = false
-

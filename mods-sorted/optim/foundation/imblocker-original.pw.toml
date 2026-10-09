@@ -1,0 +1,13 @@
+name = "IMBlocker"
+filename = "IMBlocker-5.6.2.1-forge+1.17-1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WMDesFsZ/versions/nRLlzGpB/IMBlocker-5.6.2.1-forge%2B1.17-1.20.4.jar"
+hash-format = "sha512"
+hash = "24fd910efb7836c46cf857a53f5804c1126d5d3c797df6c20eb4e6de9d14a2e5172e6dc430bd0f33ec48080cf409fe2c6e826d8bc06da476090a9b5e6049ed6d"
+
+[update]
+[update.modrinth]
+mod-id = "WMDesFsZ"
+version = "nRLlzGpB"

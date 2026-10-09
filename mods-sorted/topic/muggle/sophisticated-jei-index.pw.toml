@@ -1,0 +1,13 @@
+name = "Sophisticated JEI Index"
+filename = "sophisticated_jei_index-1.2.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u7Rbf90L/versions/TfaLMZqq/sophisticated_jei_index-1.2.4%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ce13b7831cadd07814ca0ae0a922cf29bfcb2633ee484a0a6a0223c45405cbd68ba5fcead4ca76fd6442cbde24318db75fec2392826682ce8000b55ad69ac925"
+
+[update]
+[update.modrinth]
+mod-id = "u7Rbf90L"
+version = "TfaLMZqq"

@@ -1,0 +1,13 @@
+name = "Bat Membrane (No Phantoms)"
+filename = "bat-membrane-v.1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vz3NiXrd/versions/IFIGaby7/bat-membrane-v.1.1.1.jar"
+hash-format = "sha512"
+hash = "e9e7f0d14e9b208fd7982cee2ac09a79c28d56c5035410d4d6b2afa742b041c3ee871bcdc0e7be63c88c695c2c6085828bd258897b7407d78904b6ae81fd3bf7"
+
+[update]
+[update.modrinth]
+mod-id = "vz3NiXrd"
+version = "IFIGaby7"

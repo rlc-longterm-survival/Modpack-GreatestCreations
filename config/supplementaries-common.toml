@@ -1,0 +1,6 @@
+
+[functional]
+
+	[functional.sack]
+		# Disable: Gravity dupe + sacks are universal dupe
+		enabled = false
