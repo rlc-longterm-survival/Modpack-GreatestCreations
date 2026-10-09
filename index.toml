@@ -6,7 +6,7 @@ hash = "a6cb49797c873ae8da721dc4f929ebed97a8b500bb34ffd9a31b51ed6e1419e8"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "69ae1607226cd863e27a27dd40b83a6f4a20a3d6c2132a28cc5b9d00d5e79621"
+hash = "91d4505e4a315e227ee35edac9a0fe0dc7fb340c155b8081c46f2d9c4ea548d2"
 
 [[files]]
 file = "config/ModernUI/bootstrap.properties"
@@ -897,7 +897,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "c82be790d21c8abc73ca802321b5bf6a115d62d718e2e6a883c81951bf6a5d9d"
+hash = "f6409f098a7c043e8207ccc539a65a9513340242d7039af62d924d82b33ad3a2"
 metafile = true
 
 [[files]]
