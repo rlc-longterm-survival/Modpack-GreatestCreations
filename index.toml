@@ -50,7 +50,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "bedeaf9a587365b1ba6cb1a67e6486003b004d7c3cb6d51d53f8b7c6e1e0e858"
+hash = "a371b00275a8c85b51ba549d5e8cffdf32c3550fd0cd47b4de064aee353ba785"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -136,6 +136,10 @@ hash = "147e84f10970ca0d1c92d8a33d8436efa14ea8b3039da296dda788b64615704f"
 file = "mods/3dskinlayers.pw.toml"
 hash = "f9a60f1fa7696847424dcfbdc9c9f6f113eb16d31664e8327c6919e8d929e719"
 metafile = true
+
+[[files]]
+file = "mods/QUIRKS.md"
+hash = "eebf8c66bdce212dced08dc220b4edfe1b1953473a61f6b326396636b7c24e4a"
 
 [[files]]
 file = "mods/accelerated-recoiling.pw.toml"
@@ -487,11 +491,6 @@ hash = "d0782112ea26b9b18f57d9a860bf581016687d26186e0d0dc8f6de5f54654b82"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
-metafile = true
-
-[[files]]
 file = "mods/eg-invisible-frames.pw.toml"
 hash = "d7388daa7d7ff374009039d5c3fe5ef8cb9db53053c684db2e00061873aa5e4b"
 metafile = true
@@ -559,11 +558,6 @@ metafile = true
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "df061e806cd67cb9fb7917b58c362e8dcd31ab3101205e2d50d1892c28609347"
-metafile = true
-
-[[files]]
-file = "mods/fast-paintings.pw.toml"
-hash = "dc0d8e54793e901169ffe51e57e2c0e7ab0220ce92fc8ef141ba9dfe5ae12a6d"
 metafile = true
 
 [[files]]
