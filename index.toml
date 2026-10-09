@@ -81,6 +81,26 @@ file = "config/worldedit/worldedit.properties"
 hash = "a35f2386450a413e32df3d83036f9dd7495e6b590adf752faae338967af3341f"
 
 [[files]]
+file = "journeymap/config/6.0/journeymap.fullmap.config"
+hash = "b3471aed57d215bfd51d72a0ac8b86da10315f3416aa6a5236f287e7493a062d"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap.config"
+hash = "31afa280b125eb9d0d50450f4477e18585edf286231bdc36946cc2d1d61ba3bf"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap2.config"
+hash = "83af4b93657f2cd2bfb2d4e5f26923cbc323d0c143a5cc356c7d3042b7743d5d"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.waypoint.config"
+hash = "4c68dc34aaa3a81f99e751a90f8cee1bfae3542e0d2255b6e0dbeda5a4299d78"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.webmap.config"
+hash = "5cad091eb9a2e40a47385f0c4365abf64faae9dccc8bbc466891703041ed9302"
+
+[[files]]
 file = "kubejs/server_scripts/head-drop.js"
 hash = "b4a65b5427fbab2f21d1f0b2b6b74d0a3a3b349b18065c186e6fcafd11b533ca"
 
@@ -1212,6 +1232,10 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "af776888ac0f8cfceea87a7648f737205afe00a3074653ec537a65d84375c9f0"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "ef77c5d40cf35ce0729947e21c195d93de5122e9f7279eb36c886fa4642f1620"
 
 [[files]]
 file = "resourcepacks/English Additions/assets/anxff/lang/en_us.json"
