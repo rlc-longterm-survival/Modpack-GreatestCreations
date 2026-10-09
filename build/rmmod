@@ -1,0 +1,12 @@
+#!/bin/bash
+
+set -eu -o pipefail
+
+if (( $# < 1 )); then
+    echo "Usage: rmmod <...packwiz_args>" >&2
+    exit 1
+fi
+
+python build/toolkit.py flatten mods
+packwiz remove "$@" 
+python build/toolkit.py dangerously-prune -f mods

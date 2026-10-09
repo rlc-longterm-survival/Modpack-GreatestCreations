@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if (( $# != 0 )); then
+    echo "Usage: refresh" >&2
+    exit 1
+fi
+
+set -eu -o pipefail
+python build/toolkit.py flatten mods
+packwiz refresh

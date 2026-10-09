@@ -1,0 +1,16 @@
+#!/bin/bash
+
+set -eu -o pipefail
+
+if (( $# < 3 )); then
+    echo "Usage: addmod <cf|mr> <slug_or_url> <destination_category> [<...packwiz_extra_args>]" >&2
+    exit 1
+fi
+
+python build/toolkit.py flatten mods
+packwiz "$1" add "$2" "${@:3}"
+if [[ "${3:0:1}" == "+" ]]; then
+    python build/toolkit.py sort mods -c "${3:1}"
+else
+    python build/toolkit.py sort mods "$3"
+fi
