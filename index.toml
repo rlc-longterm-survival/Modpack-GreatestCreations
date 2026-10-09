@@ -1254,7 +1254,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ef77c5d40cf35ce0729947e21c195d93de5122e9f7279eb36c886fa4642f1620"
+hash = "e18254baca5573d18a388858bfcc636456290c457a832e1d45f621eb0c88c4d5"
 
 [[files]]
 file = "resourcepacks/English Additions/assets/anxff/lang/en_us.json"

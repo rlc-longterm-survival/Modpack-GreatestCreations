@@ -1,3 +1,4 @@
+darkMojangStudiosBackground:true
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
