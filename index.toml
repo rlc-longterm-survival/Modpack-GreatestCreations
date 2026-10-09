@@ -50,7 +50,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "b6b52df4825e54781c37965e9f7ecb52696925f05ffc4e56931d8c4b3e60a1e6"
+hash = "bedeaf9a587365b1ba6cb1a67e6486003b004d7c3cb6d51d53f8b7c6e1e0e858"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -1257,64 +1257,12 @@ file = "options.txt"
 hash = "e18254baca5573d18a388858bfcc636456290c457a832e1d45f621eb0c88c4d5"
 
 [[files]]
-file = "resourcepacks/English Additions/assets/anxff/lang/en_us.json"
-hash = "49a3599820d23e10ec535ea9d471a60c91396057a98ccdad681c6da8f9ffe6ef"
+file = "resourcepacks/English Additions.zip"
+hash = "c84d30a939f5d8200cdc0fa9a00205c0dcf22343a0f7bd17f54b065aabc8804f"
 
 [[files]]
-file = "resourcepacks/English Additions/assets/hexcasting/lang/en_us.json"
-hash = "37ae13d7a5823a57d8cffba82a5059c327161241ff5526ba4731c15322584c55"
-
-[[files]]
-file = "resourcepacks/English Additions/assets/supplementaries/lang/en_us.json"
-hash = "b31cecdf0c456026d8e65ce791aaec636ce940d800a21ea4ba2d391077827511"
-
-[[files]]
-file = "resourcepacks/English Additions/assets/valkyrienskies/lang/en_us.json"
-hash = "25e418b7231ffae23d4b7862054259390deb97cc0359553b6f9326c1e7370486"
-
-[[files]]
-file = "resourcepacks/English Additions/pack.mcmeta"
-hash = "d4c1ea68c3169901c9d16126d79a7fc64ab6ab813aa9c6a539b04cce7a7a4f4f"
-
-[[files]]
-file = "resourcepacks/amethyst-isolation/assets/minecraft/models/item/amethyst_cluster.json"
-hash = "3180bcb561cf8730cc22e6175a3fd82ebc5176ad0bf038b52a6b1dbe93f8d654"
-
-[[files]]
-file = "resourcepacks/amethyst-isolation/assets/minecraft/models/item/large_amethyst_bud.json"
-hash = "f4256a0f7c99493cf05f5ee95eb50adbe4b344913a75e34bb86fdb48e6a8f47e"
-
-[[files]]
-file = "resourcepacks/amethyst-isolation/assets/minecraft/models/item/medium_amethyst_bud.json"
-hash = "5a2df6f2c79155f8a5b441c2fd10096fec1c1e25a2c7a685ca4293c8ee3460b0"
-
-[[files]]
-file = "resourcepacks/amethyst-isolation/assets/minecraft/models/item/small_amethyst_bud.json"
-hash = "4317f4b1e128c1227815755ad875839bfb4b6001aa198b385bdb46cb6f4e5b38"
-
-[[files]]
-file = "resourcepacks/amethyst-isolation/assets/minecraft/textures/block/amethyst_cluster_as_item.png"
-hash = "a268cc32cb873e4769f95b2e626aec47369425081780ab9abff87a37e9795126"
-
-[[files]]
-file = "resourcepacks/amethyst-isolation/assets/minecraft/textures/block/large_amethyst_bud_as_item.png"
-hash = "5d11fa04811b8b9671eb3e6b0c4edc0a6d19372dab385484055174fcb32ccd4b"
-
-[[files]]
-file = "resourcepacks/amethyst-isolation/assets/minecraft/textures/block/medium_amethyst_bud_as_item.png"
-hash = "a7609ca5d8bbbcf7a2a3f820b5e2b5fe84334d539665a4b6adbe3b7d6afaeada"
-
-[[files]]
-file = "resourcepacks/amethyst-isolation/assets/minecraft/textures/block/small_amethyst_bud_as_item.png"
-hash = "5a0069f682224c1c8f08042518e8b0824c46585b3ad4855bc6681cb230f7281f"
-
-[[files]]
-file = "resourcepacks/amethyst-isolation/pack.mcmeta"
-hash = "af1832551dc185b6a0536616a6878945e28bd793226410ac8bb1cd33f1f8e0ed"
-
-[[files]]
-file = "resourcepacks/amethyst-isolation/pack.png"
-hash = "a268cc32cb873e4769f95b2e626aec47369425081780ab9abff87a37e9795126"
+file = "resourcepacks/amethyst-isolation.zip"
+hash = "b52901a4094cdc99b2943391e8d6865a0bf946e1602c82c784352ee070200cba"
 
 [[files]]
 file = "resourcepacks/redstone-torch-backport.pw.toml"
@@ -1331,32 +1279,8 @@ file = "resourcepacks/unifont-16.0.04.ttf"
 hash = "6b18fdcf0f61f3df2e61db9737af6de9f37048ec93083621d41504ebf8cb18f4"
 
 [[files]]
-file = "resourcepacks/§c1.21.2 Redstone Torch Integrated Circuits§r/assets/integrated_circuit/textures/integrated_circuit/crossover.png"
-hash = "2eeea48989738e942edb53333ec872fbd37b8c36b56ef30cf26f1c1c7fe2e4c7"
-
-[[files]]
-file = "resourcepacks/§c1.21.2 Redstone Torch Integrated Circuits§r/assets/integrated_circuit/textures/integrated_circuit/torch.png"
-hash = "02ae1995c8d95c07e9645ed438307f359522458536d945fd8cac4cc6e231e909"
-
-[[files]]
-file = "resourcepacks/§c1.21.2 Redstone Torch Integrated Circuits§r/assets/integrated_circuit/textures/integrated_circuit/torch_top_on.png"
-hash = "3a8776c36453c2cc5cd0b25539829eb51edd98d3698bdb5b2f5a6161df1126a8"
-
-[[files]]
-file = "resourcepacks/§c1.21.2 Redstone Torch Integrated Circuits§r/assets/integrated_circuit/textures/integrated_circuit/wire_x.png"
-hash = "fa3bcaa504e2a7a5c706bc791cab282bdf97d124a17f25b52f69a6af861b87cd"
-
-[[files]]
-file = "resourcepacks/§c1.21.2 Redstone Torch Integrated Circuits§r/assets/integrated_circuit/textures/integrated_circuit/wire_y.png"
-hash = "ee5458c44e9a345428a81e2ce7b1bae8d3d1bd685501cbc1f9feb31969c7aee9"
-
-[[files]]
-file = "resourcepacks/§c1.21.2 Redstone Torch Integrated Circuits§r/pack.mcmeta"
-hash = "66800a6c6840ff7f84ef5a11104a863a36ddcfd65b6018fd5cb2150c0e0201d0"
-
-[[files]]
-file = "resourcepacks/§c1.21.2 Redstone Torch Integrated Circuits§r/pack.png"
-hash = "597a9c85da9a9c09937fa53c261281c549922ac04d7db1d6a1f122f13c8be61e"
+file = "resourcepacks/§c1.21.2 Redstone Torch Integrated Circuits§r.zip"
+hash = "086c19126811fda3b2df75c6994761f36554ee6369eb6d9ea5c3356b5a94dc0d"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
