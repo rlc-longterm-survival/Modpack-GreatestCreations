@@ -1,0 +1,14 @@
+#!/bin/bash
+
+if (( $# != 0 )); then
+    echo "Usage: serve" >&2
+    exit 1
+fi
+
+# Fully refresh
+./build/refresh
+
+# Build
+echo ======== Serve ========
+port=${PORT:-14010}
+packwiz serve -p "$port"
