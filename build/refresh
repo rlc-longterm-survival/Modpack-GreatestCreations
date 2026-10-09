@@ -1,11 +1,11 @@
 #!/bin/bash
 
+set -eu -o pipefail
+
 if (( $# != 0 )); then
     echo "Usage: refresh" >&2
     exit 1
 fi
-
-set -eu -o pipefail
 
 echo ======== Flatten ========
 python build/toolkit.py flatten mods

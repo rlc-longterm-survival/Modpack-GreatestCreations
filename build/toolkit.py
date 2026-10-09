@@ -302,6 +302,18 @@ def cmd_write_config(args: argparse.Namespace):
     print('Derived MC config generated.')
 
 # --------------------------------------------------------------------------- #
+# determine artifact name
+# --------------------------------------------------------------------------- #
+
+def cmd_artifact_name(args: argparse.Namespace):
+    with open("pack.toml", "rb") as f:
+        data = tomllib.load(f)
+    pack_name = data['name']
+    version = data['version']
+    title = f'{pack_name} v{version} ({args.target}).zip'
+    print(title)
+
+# --------------------------------------------------------------------------- #
 # command line
 # --------------------------------------------------------------------------- #
 
@@ -359,6 +371,17 @@ def build_parser() -> argparse.ArgumentParser:
         help="generate derived MC config files",
     )
     write_config.set_defaults(func=cmd_write_config)
+
+    artifact_name = subparsers.add_parser(
+        "artifact-name",
+        help="determine the name for artifact",
+    )
+    artifact_name.add_argument(
+        "--target",
+        required=True,
+        help="Specifier of the target platform/side, included in the artifact file name."
+    )
+    artifact_name.set_defaults(func=cmd_artifact_name)
 
     return parser
 
