@@ -1,4 +1,7 @@
+version:3465
 darkMojangStudiosBackground:true
+resourcePacks:["vanilla","serilum_mod_translations","mod_resources","file/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip","Moonlight Mods Dynamic Assets","fabric","supplemental_patches:builtin_shaders","file/English Additions.zip","continuity:glass_pane_culling_fix","file/amethyst-isolation.zip","continuity:default","builtin/create_repair_asset_overrides","create_central_kitchen:create_styled","file/§c1.21.2 Redstone Torch§r.zip","file/RST Backport Supporter §cv1.4§r.zip","file/§c1.21.2 Redstone Torch Integrated Circuits§r.zip"]
+incompatibleResourcePacks:["file/§c1.21.2 Redstone Torch§r.zip","file/RST Backport Supporter §cv1.4§r.zip"]
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
