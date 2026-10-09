@@ -1,0 +1,13 @@
+name = "PackForge - Optimized Resource Pack Loading Time"
+filename = "packforge-forge-1.4.1-beta.1-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NimDX7iQ/versions/Zh7FHvTp/packforge-forge-1.4.1-beta.1-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "0b48b9324df66c5805745e443a41efedb290948599df7d7ef8d35ebd02660c599b0bf64ecdba28de2ee9f86670efa285477a645ab48fdfe8f138db1514d71d7f"
+
+[update]
+[update.modrinth]
+mod-id = "NimDX7iQ"
+version = "Zh7FHvTp"

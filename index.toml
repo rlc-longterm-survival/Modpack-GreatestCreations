@@ -915,6 +915,11 @@ hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
 metafile = true
 
 [[files]]
+file = "mods/packforge.pw.toml"
+hash = "792303fd7db2d5979c23ad6f8d8fb7045a39145c3a54445c254086efab2c033e"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "cc71ab4296fffdfca0a373adba4c7721ccad228f305fda8566507063de65e40e"
 metafile = true
