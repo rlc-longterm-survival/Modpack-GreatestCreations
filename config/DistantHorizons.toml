@@ -6,3 +6,8 @@ _version = 5
 	[common.logging]
 		[common.logging.warning]
 			showGarbageCollectorWarning = false
+
+[client]
+		[client.advanced.graphics]
+			[client.advanced.graphics.quality]
+				lodChunkRenderDistanceRadius = 128
