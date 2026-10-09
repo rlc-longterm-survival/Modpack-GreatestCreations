@@ -61,6 +61,10 @@ file = "config/dynamic_fps.json"
 hash = "0ff0e32a7272e0c3c2faa304f2b9b47670f581ccbf62cf75cf41638282230070"
 
 [[files]]
+file = "config/embeddium-options.json"
+hash = "392830df9de14d708e92b8de09d4ffb6e928f287862e6b4ad97cad2982a05e37"
+
+[[files]]
 file = "config/fml.toml"
 hash = "e7a479a7640ab66e0b299dd2f5e14f501f4c995ece2ed9c8bc7b4f4036772913"
 
