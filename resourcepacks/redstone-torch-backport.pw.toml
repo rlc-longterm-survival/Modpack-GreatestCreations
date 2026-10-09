@@ -1,6 +1,6 @@
 name = "Redstone Torch Backport"
 filename = "§c1.21.2 Redstone Torch§r.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/VuMFO1Oz/versions/xcyaoqev/%C2%A7c1.21.2%20Redstone%20Torch%C2%A7r.zip"

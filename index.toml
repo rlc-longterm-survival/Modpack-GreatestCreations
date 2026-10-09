@@ -50,7 +50,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "3560f4fa3e7de57b8911d20608f5783db4f0a0cc0e48055b5d28f143511114aa"
+hash = "b6b52df4825e54781c37965e9f7ecb52696925f05ffc4e56931d8c4b3e60a1e6"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -529,6 +529,16 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "51be25b31a4349ce8d74267272667e349dbd2ebb2e19346ed365b509ae45bc57"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-companion.pw.toml"
+hash = "eb339515e32e84d702a1e8cf5b1eb799e53592f76d6ace9ff359d91218b0aa45"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "ca2ded2f5fb9f51a87284e6309d3d50d70123cfe030a715e583c19dc8a5960d3"
 metafile = true
 
 [[files]]
@@ -1074,6 +1084,11 @@ hash = "f80cfb35b9b4bc6b49405df801a45447ad5ecbf128c98eefc4d2ac3c1b09ccfd"
 metafile = true
 
 [[files]]
+file = "mods/supplemental-patches.pw.toml"
+hash = "00678fe30752190657d4a141bd66bbf2115bbf1ff4a31f3a2b131feb53a65f51"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "168b3ee3fa2fe18f712c593d9d90e8b3a8a6a10564376af98bcc6f9719506641"
 metafile = true
@@ -1303,12 +1318,12 @@ hash = "a268cc32cb873e4769f95b2e626aec47369425081780ab9abff87a37e9795126"
 
 [[files]]
 file = "resourcepacks/redstone-torch-backport.pw.toml"
-hash = "d843920204289dce7dfc49c611f382a2f692f0d9a0737e08a1efe9948bebb085"
+hash = "04772ae7827575d2295cff9fb90af5e4aaf66bf7fa585858f51400dc6574e93b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/rstorch-backport-mod-supporter.pw.toml"
-hash = "9979572ab54cd9f008e07e9d48a5d07c0ddfb94de100334652ee1151f74b0c36"
+hash = "bb0a37d928905947c9635401d6d00628affe9077a40bbc25f11418b6fa796513"
 metafile = true
 
 [[files]]
@@ -1342,3 +1357,8 @@ hash = "66800a6c6840ff7f84ef5a11104a863a36ddcfd65b6018fd5cb2150c0e0201d0"
 [[files]]
 file = "resourcepacks/§c1.21.2 Redstone Torch Integrated Circuits§r/pack.png"
 hash = "597a9c85da9a9c09937fa53c261281c549922ac04d7db1d6a1f122f13c8be61e"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Supplemental Patches"
+filename = "supplemental_patches-1.0.2+1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7G5M8xtj/versions/y5xZqpy3/supplemental_patches-1.0.2%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "8c2d4e17d08dd1eafc279028dafecdf007f596aa246637a6f5dc0e0c84d575df826ce84c41231986177c4801e420da2dcb11aa97dcb97ec5d91be3ecef912f18"
+
+[update]
+[update.modrinth]
+mod-id = "7G5M8xtj"
+version = "y5xZqpy3"
