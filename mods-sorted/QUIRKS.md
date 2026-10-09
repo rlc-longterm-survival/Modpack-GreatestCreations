@@ -1,1 +1,1 @@
-- `topic/muggle/amendments.pw.toml`: Changes the model of regular signs to be contained within a single block (this is not mentioned in the mod's description). This breaks compatibility with Enhanced Block Entities.
+- `topic/muggle/amendments.pw.toml`: Changes the model of regular signs to be contained within a single block (this is not mentioned in the mod's description). This breaks compatibility with Enhanced Block Entities. (now disabled via config)

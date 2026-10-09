@@ -1,0 +1,4 @@
+
+[sign]
+	# The changed model breaks compatibility with Enhanced Block Entities.
+	pixel_consistent = false

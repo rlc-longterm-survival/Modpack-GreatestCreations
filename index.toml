@@ -33,6 +33,10 @@ file = "config/adaptive-tooltips.json"
 hash = "a9ca5e707428ca674597b5cfdb3de1251753a66f3204a792d94dd291b4eebf3e"
 
 [[files]]
+file = "config/amendments-client.toml"
+hash = "60bc3407010ebe0460fc3e1c9c48008272deee3fb3577c0156c67d5c17edb646"
+
+[[files]]
 file = "config/betteradvancements-client.toml"
 hash = "0c3d5b72bd1f48016e51f7f54fdef42cbded1c7eb4d10ce64d3c3785860811cb"
 
@@ -139,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/QUIRKS.md"
-hash = "eebf8c66bdce212dced08dc220b4edfe1b1953473a61f6b326396636b7c24e4a"
+hash = "ebe6175b565a8a1735126129ce155ad2b6e6f420f872c0f43f31abc91adb45c6"
 
 [[files]]
 file = "mods/accelerated-recoiling.pw.toml"
@@ -488,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "d0782112ea26b9b18f57d9a860bf581016687d26186e0d0dc8f6de5f54654b82"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
 
 [[files]]
