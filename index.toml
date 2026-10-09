@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/adaptive-tooltips.json"
-hash = "6a43dfe45f0ffb0fa639145b174bd6f3249b4abc11f43da95fd67cacf43f7271"
+hash = "a9ca5e707428ca674597b5cfdb3de1251753a66f3204a792d94dd291b4eebf3e"
+
+[[files]]
+file = "config/betteradvancements-client.toml"
+hash = "d0b3da1e6ed7071b2a48519c4164e42e6b4d09262c5c4842b7eea4872989d083"
 
 [[files]]
 file = "mods/accelerated-recoiling.pw.toml"
@@ -70,6 +74,11 @@ hash = "23fdf44b148ca550c78d1125d24ed0a6c04b0d47a3c391d0b9a1567a50ffd58a"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "4eb6c45b1610715e25f6070d445a3dc9322c1f66197f0cb6d1158a9d62cba786"
 metafile = true
@@ -97,11 +106,6 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "834dfc3eac7e8cbfe203578f1120ba298711f0426133950ce8972f5afc025a4d"
-metafile = true
-
-[[files]]
-file = "mods/modmenu.pw.toml"
-hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]

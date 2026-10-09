@@ -8,7 +8,7 @@ if (( $# < 3 )); then
 fi
 
 python build/toolkit.py flatten mods
-packwiz "$1" add "$2" "${@:3}"
+packwiz "$1" add "$2" "${@:4}"
 if [[ "${3:0:1}" == "+" ]]; then
     python build/toolkit.py sort mods -c "${3:1}"
 else
