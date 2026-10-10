@@ -85,6 +85,10 @@ file = "config/packetfixer.properties"
 hash = "09638c56037151a4de8fcabb4cd1516a672ce2256473988d7e14e750502e7422"
 
 [[files]]
+file = "config/super_resolution/config.toml"
+hash = "512f901bb40a6bd4ab654e18d0ec68c36095a0ae92a731f4e25c74b03de4c2f6"
+
+[[files]]
 file = "config/supplementaries-common.toml"
 hash = "d3ad907eba9121caef04bc0528b309037efe3d1fe7c43f19cbd5afae11dd31fc"
 
