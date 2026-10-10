@@ -58,7 +58,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "82621646a5db5c10ccd032741fc6994f339058e7a56d7997f093184f9e8cf97e"
+hash = "754d62bc6849395bafbed123c4678ab4b7ce499cddf053d88d36c2c699e53084"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -401,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "76422dff09360cb077eec56dd0340b664991191f78cfcf6da3d01bf344ee9f1a"
+metafile = true
+
+[[files]]
+file = "mods/create-potato-cannon-fix.pw.toml"
+hash = "f6a487d18867d144996eaceb0bba52ca189ea050b1779567e9bc78884d3837b9"
 metafile = true
 
 [[files]]
