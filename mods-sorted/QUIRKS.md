@@ -1,1 +1,2 @@
 - `topic/muggle/amendments.pw.toml`: Changes the model of regular signs to be contained within a single block (this is not mentioned in the mod's description). This breaks compatibility with Enhanced Block Entities. (now disabled via config)
+- `optim/optional/c2me.pw.toml`: Breaks the saving of multi-part Create Copycats+ block materials on dedicated servers. Cannot be used.

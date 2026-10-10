@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/QUIRKS.md"
-hash = "ebe6175b565a8a1735126129ce155ad2b6e6f420f872c0f43f31abc91adb45c6"
+hash = "444e31eec8e25c819eaccd72c561456cc0e71341ea56e118169346a9e6326e18"
 
 [[files]]
 file = "mods/accelerated-recoiling.pw.toml"
@@ -243,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/bots-lib.pw.toml"
 hash = "aa75e6f449db4c77222c77c8a697e4682572085fd563ac26af1e89ec3fd58cdf"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "ade864be9b0be5ed45fe53e621c9bd30778cbf2cfbf702b27aca203abf1d7bf7"
 metafile = true
 
 [[files]]
@@ -773,6 +768,11 @@ hash = "9ec37ad87c0c174bdafe7d52fc98f96b83aaef0ad42ae59e196655d3d784f31f"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8508e46b7e272d79dc6b3cc0149f9fd132c701369bcb2abb5c35da3ed92b27fb"
+metafile = true
+
+[[files]]
 file = "mods/languagereloadunofficial.pw.toml"
 hash = "9e74cd2a53e0546dc82d016c1fa6fa4bbf70e562fb1ffcf8a69855cb998ecb51"
 metafile = true
@@ -980,6 +980,11 @@ metafile = true
 [[files]]
 file = "mods/puddles-floods.pw.toml"
 hash = "3e79d2173e1f05c45fe3dae1df7fad4aa044ff78da1a4eaefa6f9702980d2575"
+metafile = true
+
+[[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "24cce958af7e38a592c1ef2fc4b95f1a90d42572fb476393a4cd3f7859666c9b"
 metafile = true
 
 [[files]]
@@ -1262,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ff7a964f3af8f24e561060f0b23694caa3d29d5481c0d92ff8c4c5e0a584dae5"
+hash = "e671dd2281f9cca39abcda25670da49587ca966fc843322675779d0ce0fa490b"
 
 [[files]]
 file = "resourcepacks/English Additions.zip"
