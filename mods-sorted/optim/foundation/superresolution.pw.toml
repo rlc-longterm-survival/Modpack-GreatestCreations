@@ -1,13 +1,14 @@
 name = "Super Resolution"
-filename = "super_resolution-forge-1.20.1-0.9.2-alpha.2+opengl.jar"
+filename = "super_resolution-forge-1.20.1-0.8.3-alpha.6+opengl.jar"
 side = "client"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/Hf3Qz2H3/versions/DHmoN7RE/super_resolution-forge-1.20.1-0.9.2-alpha.2%2Bopengl.jar"
+url = "https://cdn.modrinth.com/data/Hf3Qz2H3/versions/uH0UZ7Lu/super_resolution-forge-1.20.1-0.8.3-alpha.6%2Bopengl.jar"
 hash-format = "sha512"
-hash = "5531b8dab836b3630f90738d0b8915250571ee3151a9247b628c4baa64b490f692303b8ea1820391bb2f3fe3504206fd503d90b2622aadc70f18ecc092f3c257"
+hash = "3d75f1397efb5873306d2db901bf1a2bd1fb8757f41ff3ec2b07ea54f032c7f342de6e2d2269514290d336d14dbe321545a9d9b21ed99de1f1b395bcef4e1ab9"
 
 [update]
 [update.modrinth]
 mod-id = "Hf3Qz2H3"
-version = "DHmoN7RE"
+version = "uH0UZ7Lu"

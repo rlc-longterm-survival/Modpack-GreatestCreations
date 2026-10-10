@@ -74,7 +74,7 @@ hash = "392830df9de14d708e92b8de09d4ffb6e928f287862e6b4ad97cad2982a05e37"
 
 [[files]]
 file = "config/fml.toml"
-hash = "e7a479a7640ab66e0b299dd2f5e14f501f4c995ece2ed9c8bc7b4f4036772913"
+hash = "ed23f307a1111179b9be35031e64f8d76a9a5fb71bb891e5e9b3f62d6e2702da"
 
 [[files]]
 file = "config/jei/jei-client.ini"
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/QUIRKS.md"
-hash = "0778d78070c8711554475796cb189882a512297a7a56a261da394a010985de42"
+hash = "c150201837e0d1d0b3a2a0c4c1949d091336f3e8866abc9934c463ff71fbaf42"
 
 [[files]]
 file = "mods/accelerated-recoiling.pw.toml"
@@ -626,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/global-server-config.pw.toml"
 hash = "8287daff0619a7137aa72c705e0221842f9dedcf1b29be6611e78489b0e9bb6b"
+metafile = true
+
+[[files]]
+file = "mods/gputape.pw.toml"
+hash = "5e9d7c8fe15e7342aee0070e7e6dbf24659fe6d44fdc06c161f39830a98dce50"
 metafile = true
 
 [[files]]
@@ -1117,7 +1122,7 @@ metafile = true
 
 [[files]]
 file = "mods/superresolution.pw.toml"
-hash = "f80cfb35b9b4bc6b49405df801a45447ad5ecbf128c98eefc4d2ac3c1b09ccfd"
+hash = "1a6cdc46a7c332e79af7323ae946d54b41012dc0cc5236566b1ca1a9edf38af7"
 metafile = true
 
 [[files]]
@@ -1291,7 +1296,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "47dcac41994feeffa0b55e33ddaf0fb5c59127124de9fee0fb96a5a7fff6008b"
+hash = "90f8503d6064834ff690b5a7cd252b14de71dd0b73bef655475318ac8e76e810"
 
 [[files]]
 file = "resourcepacks/English Additions.zip"
