@@ -295,7 +295,7 @@ def cmd_write_config(args: argparse.Namespace):
     pack_name = data['name']
     version = data['version']
     mc_version = data['versions']['minecraft']
-    title = f'{pack_name} {version} (Minecraft* {mc_version})'
+    title = f'{pack_name} v{version} (Minecraft* {mc_version})'
     open('config/customwindowtitle-client.toml', 'w', encoding='utf-8').write(
         f'title = {json.dumps(title)}\n'
     )

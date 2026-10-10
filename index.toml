@@ -54,7 +54,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "a371b00275a8c85b51ba549d5e8cffdf32c3550fd0cd47b4de064aee353ba785"
+hash = "5f6a7d12a5eda92a22abed9e92f93244a71e45502cf4211e6202673d50896910"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
