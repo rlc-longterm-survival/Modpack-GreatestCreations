@@ -192,4 +192,4 @@ key_key.jade.show_uses:key.keyboard.keypad.9
 key_key.jade.narrate:key.keyboard.keypad.9:CONTROL
 key_key.jade.show_details:key.keyboard.left.shift
 key_minecart-turning.toggle:key.keyboard.unknown
-key_key.observable.profile:key.keyboard.unknown
+key_key.observable.profile:key.keyboard.keypad.divide:CONTROL
