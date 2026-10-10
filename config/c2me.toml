@@ -1,0 +1,8 @@
+version = 3
+
+[ioSystem]
+	# async implementation breaks Create Copycats+, making it unable to save the materials
+	# of multi-part copycat blocks.
+	async = false
+	# replaceImpl without async will break world generation entirely.
+	replaceImpl = false
