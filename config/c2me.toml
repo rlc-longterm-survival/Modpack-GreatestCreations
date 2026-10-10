@@ -6,3 +6,5 @@ version = 3
 	async = false
 	# replaceImpl without async will break world generation entirely.
 	replaceImpl = false
+	# can be used
+	gcFreeChunkSerializer = true

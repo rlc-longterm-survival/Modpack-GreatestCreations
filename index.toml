@@ -46,7 +46,7 @@ hash = "fd7e34fc6d2694f914e7c20c6719e11923ac664d133e7fc37acf9451c23b79a9"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "7d4b6b2310a1e748189c7363835fe9852d3c31a342f3e43591ac1b9442e5c5af"
+hash = "649f4b0e5090a9a26dc123028dea219f0ae7a7d75e7a2adf622d2380a1be4104"
 
 [[files]]
 file = "config/create_interactive-common.toml"
@@ -58,7 +58,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "bbc0bb6e8c302e0921e0ff3d5896f8c2e6d013840e1c22b5af52c33d59dbba11"
+hash = "82621646a5db5c10ccd032741fc6994f339058e7a56d7997f093184f9e8cf97e"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -471,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/dimension-leak-fix.pw.toml"
 hash = "0fba87adfeb54a29fcbc0dbf642ab7861d84bda34b31da3f67d497bb0c8702de"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons-seedgen.pw.toml"
+hash = "362e40a99d7addf6a833ca02f8b7b1c42e07c15fe6a67a3627751592a46dec16"
 metafile = true
 
 [[files]]
@@ -889,6 +894,11 @@ metafile = true
 [[files]]
 file = "mods/no-unused-chunks.pw.toml"
 hash = "5417c81abef33bdd0729638bdbd15b4cbe3a60e0358c915f0ed2aa7effa21c99"
+metafile = true
+
+[[files]]
+file = "mods/noisiumed.pw.toml"
+hash = "7a3832b262f0c831ab5a529de935c16811428dee138ae3b56055ceee1fe38593"
 metafile = true
 
 [[files]]
