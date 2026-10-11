@@ -41,6 +41,10 @@ file = "config/betteradvancements-client.toml"
 hash = "0c3d5b72bd1f48016e51f7f54fdef42cbded1c7eb4d10ce64d3c3785860811cb"
 
 [[files]]
+file = "config/betterdungeons-forge-1_20.toml"
+hash = "729004496e9b025d387355ae0dc05046d2c5866708b29bdf34205b3c703ff5cf"
+
+[[files]]
 file = "config/block_entity_extended_rendering.properties"
 hash = "fd7e34fc6d2694f914e7c20c6719e11923ac664d133e7fc37acf9451c23b79a9"
 
@@ -58,7 +62,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "f5f2b99f78287f28afc6fe555b59a1d6f67ca295fcf380fdefb36b1529d0c113"
+hash = "0ac4f9424694e9b35d8b8605a9db4904cbc7fc4d3cb696bd9d9c4090b0207b03"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"

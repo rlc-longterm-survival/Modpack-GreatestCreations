@@ -1,0 +1,7 @@
+
+["YUNG's Better Dungeons"]
+
+	["YUNG's Better Dungeons"."Small Nether Dungeons"]
+		# Whether or not small Nether dungeons should spawn.
+		# Default: false
+		"Enable Small Nether Dungeons" = true
