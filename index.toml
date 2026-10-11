@@ -85,6 +85,14 @@ file = "config/packetfixer.properties"
 hash = "09638c56037151a4de8fcabb4cd1516a672ce2256473988d7e14e750502e7422"
 
 [[files]]
+file = "config/servercore/config.yml"
+hash = "8e0a463bc3dce6cf05a115eb1c23370542f2f6e9e89204873084f2bf7fe724b8"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "fbb29b9bf5d8f90f58568cfae7f85220d84465d78d6a4dcbfbe3c15ffd172f8d"
+
+[[files]]
 file = "config/super_resolution/config.toml"
 hash = "512f901bb40a6bd4ab654e18d0ec68c36095a0ae92a731f4e25c74b03de4c2f6"
 
