@@ -1,0 +1,13 @@
+name = "Create: Nowheel"
+filename = "nowheel-2.1.1+1.20.1forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/c47YxuuI/versions/CkJBSEnO/nowheel-2.1.1%2B1.20.1forge.jar"
+hash-format = "sha512"
+hash = "5a0bf6e88af7eb24b73b8dd940507992e9c17640f7e7c88772e6a7f355ba6f7910a8d06945ba10da7c81062577dc4a40d5b9552d11ff0a6d4ee90fe6ee7b1334"
+
+[update]
+[update.modrinth]
+mod-id = "c47YxuuI"
+version = "CkJBSEnO"

@@ -58,7 +58,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "5476467256cb3548a429e6a7c029dd32dc850333f2a3355601a126552d199e92"
+hash = "f08480b98d7c76c6955520746f398d64458fc1a2a244ed2dadc52dead3326f20"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/QUIRKS.md"
-hash = "c150201837e0d1d0b3a2a0c4c1949d091336f3e8866abc9934c463ff71fbaf42"
+hash = "acad613a49f68d985e65fcd8e473cffbdcb7d4b27c15ffd23f9965c557b54ddc"
 
 [[files]]
 file = "mods/accelerated-recoiling.pw.toml"
@@ -408,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "76422dff09360cb077eec56dd0340b664991191f78cfcf6da3d01bf344ee9f1a"
+metafile = true
+
+[[files]]
+file = "mods/create-nowheel.pw.toml"
+hash = "ddd54e48bb87f559028d1cd57f3af1ac183e2e1c4332af4768cb44e53be83a48"
 metafile = true
 
 [[files]]
