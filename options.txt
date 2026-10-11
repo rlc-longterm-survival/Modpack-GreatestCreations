@@ -114,7 +114,7 @@ key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
 key_mapfrontiers.key.open_settings:key.keyboard.f8:CONTROL
 key_key.euphoriacompanion.analyze:key.keyboard.f7:CONTROL
 key_key.toomanybinds.launcher:key.keyboard.f4
-key_key.toomanybinds.favorite:key.keyboard.q:CONTROL
+key_key.toomanybinds.favorite:key.keyboard.f4:SHIFT
 key_key.shifty_hotbar.row_modifier:key.keyboard.left.alt
 key_key.shifty_hotbar.previous_row:key.keyboard.down
 key_key.shifty_hotbar.next_row:key.keyboard.up
