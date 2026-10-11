@@ -58,7 +58,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "f08480b98d7c76c6955520746f398d64458fc1a2a244ed2dadc52dead3326f20"
+hash = "f5f2b99f78287f28afc6fe555b59a1d6f67ca295fcf380fdefb36b1529d0c113"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -99,6 +99,10 @@ hash = "512f901bb40a6bd4ab654e18d0ec68c36095a0ae92a731f4e25c74b03de4c2f6"
 [[files]]
 file = "config/supplementaries-common.toml"
 hash = "d3ad907eba9121caef04bc0528b309037efe3d1fe7c43f19cbd5afae11dd31fc"
+
+[[files]]
+file = "config/timecontrol-server.toml"
+hash = "099a6317ff13b3ccf081db90f4b1b3d021efef99e5338434e15c0bc6707785bc"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
