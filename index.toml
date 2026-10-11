@@ -58,7 +58,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "754d62bc6849395bafbed123c4678ab4b7ce499cddf053d88d36c2c699e53084"
+hash = "9ae9b1ac3483f4abc0b97e989fc55b150c814d2859e3cae4e4da87f49131feb2"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -408,6 +408,11 @@ hash = "76422dff09360cb077eec56dd0340b664991191f78cfcf6da3d01bf344ee9f1a"
 metafile = true
 
 [[files]]
+file = "mods/create-optimized-trains.pw.toml"
+hash = "4fb49d4c04a8eccc7db98f5392367ebc9920e1feadc28c8bd550cd6ce01c2a91"
+metafile = true
+
+[[files]]
 file = "mods/create-potato-cannon-fix.pw.toml"
 hash = "f6a487d18867d144996eaceb0bba52ca189ea050b1779567e9bc78884d3837b9"
 metafile = true
@@ -440,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/createbetterfps.pw.toml"
 hash = "f54ff443e8b460c15c32ec45b84d49a62a33a4f652f2eaa613d3bc9c2a67f469"
+metafile = true
+
+[[files]]
+file = "mods/createlazytick.pw.toml"
+hash = "63bb92ca96eb9c69d28d3c1de344c96e27970550428f88662176b2af88c2ff39"
 metafile = true
 
 [[files]]
@@ -806,6 +816,11 @@ hash = "9e74cd2a53e0546dc82d016c1fa6fa4bbf70e562fb1ffcf8a69855cb998ecb51"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "45c55bdbbf2240dfa30cedb5cd437f5716ccf09a707dcdffbe7f39af3e19ff7f"
+metafile = true
+
+[[files]]
 file = "mods/lmd.pw.toml"
 hash = "d171acd90da5df8212928557ec535d47d82a1daccc6b8e279af8941c5925d46a"
 metafile = true
@@ -1141,7 +1156,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
+hash = "4dfde3652243cfdfe5ee680d783204b4894420484bfaf38e6163302aa13bf6fd"
 metafile = true
 
 [[files]]

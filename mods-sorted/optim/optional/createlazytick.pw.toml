@@ -1,0 +1,13 @@
+name = "Create: LazyTick"
+filename = "CreateLazyTick-2.7.30-6.0.x-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z0d7hFh4/versions/Z2sOlunP/CreateLazyTick-2.7.30-6.0.x-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "5d83268d0fe61231c71ea722ebd3956c98237a252b64bdaf73cec04475762c69f3ec6aead038b52b3c4461fc4da42ef2937622eebcd8c9420d7c6e18a657ed73"
+
+[update]
+[update.modrinth]
+mod-id = "Z0d7hFh4"
+version = "Z2sOlunP"

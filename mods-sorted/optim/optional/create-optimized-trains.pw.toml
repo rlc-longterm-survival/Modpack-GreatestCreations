@@ -1,0 +1,13 @@
+name = "Create Optimized Trains"
+filename = "create-optimized-trains-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lnuz740Q/versions/qpTbANDv/create-optimized-trains-1.3.2.jar"
+hash-format = "sha512"
+hash = "52122de22450fdb945ee3073a548d2956fd1aec692b3f53da782f4331c8d65611bd070261dc9eb7be2f39395e151d423df07589aaea981c2f92249ed4aec7884"
+
+[update]
+[update.modrinth]
+mod-id = "lnuz740Q"
+version = "qpTbANDv"
