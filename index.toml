@@ -62,7 +62,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "0ac4f9424694e9b35d8b8605a9db4904cbc7fc4d3cb696bd9d9c4090b0207b03"
+hash = "d45914f98a054a140a1d5b247bd1a17d145426b88a1a80b9342c038861da0e6e"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -197,11 +197,6 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "b9e6e6a4a26ff1421620ea6cd99c0be1caaa66a1277c8cc72d2f64443be1fbcf"
-metafile = true
-
-[[files]]
-file = "mods/ambient-fireflies.pw.toml"
-hash = "e27f48a07d8e520787009e020ceb417c433a14d591c48ae00215915382b5e60c"
 metafile = true
 
 [[files]]
@@ -656,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/global-server-config.pw.toml"
 hash = "8287daff0619a7137aa72c705e0221842f9dedcf1b29be6611e78489b0e9bb6b"
+metafile = true
+
+[[files]]
+file = "mods/golden-dandelion-port.pw.toml"
+hash = "40b68e430dc01428fe1432b25ccfbed572d39bdeb716a10844892c7e7b816ea0"
 metafile = true
 
 [[files]]

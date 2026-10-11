@@ -1,0 +1,13 @@
+name = "Golden Dandelion Backport"
+filename = "GoldenDandelionBackport-1.20.1-1.0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/58L7Wsbi/versions/loT3bJW6/GoldenDandelionBackport-1.20.1-1.0.6.0.jar"
+hash-format = "sha512"
+hash = "76fe36f2e85496e2b6f1001b07b5622c6a68201cbe7201f9bd4a8c247019f9001a1c35151a4c6fb5232bcbcdcacfc9265e5830ca4c8e13512e24bb3398450de3"
+
+[update]
+[update.modrinth]
+mod-id = "58L7Wsbi"
+version = "loT3bJW6"
