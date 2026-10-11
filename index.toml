@@ -118,11 +118,11 @@ hash = "b3471aed57d215bfd51d72a0ac8b86da10315f3416aa6a5236f287e7493a062d"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "31afa280b125eb9d0d50450f4477e18585edf286231bdc36946cc2d1d61ba3bf"
+hash = "cd1249b9a9e94920def399153b80b2f7bd4c9610f39b9225b028af79ac3d8b18"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap2.config"
-hash = "83af4b93657f2cd2bfb2d4e5f26923cbc323d0c143a5cc356c7d3042b7743d5d"
+hash = "5a5435fda6a374ae02f2b6ff511355cdbc40c0f6034b78daf3981028ed76ec4f"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
