@@ -58,7 +58,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "9ae9b1ac3483f4abc0b97e989fc55b150c814d2859e3cae4e4da87f49131feb2"
+hash = "5476467256cb3548a429e6a7c029dd32dc850333f2a3355601a126552d199e92"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough+.pw.toml"
-hash = "134a8aa24ef1ee029f901567275d30ca6b971580bce0f4a11bf6c69d55eb2a0a"
+hash = "95ef50aad0e69eb6f7863f7e10eca874a197f80f22d25e2010fa319984114e55"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "4eb6c45b1610715e25f6070d445a3dc9322c1f66197f0cb6d1158a9d62cba786"
+hash = "775dbe7646dee8dfb1de6f4ffeb6f7051195c6e61c97683841c1be661eee52cf"
 metafile = true
 
 [[files]]
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "887c6940342275e576824435f20050c1c938a151c758568c4059626775d20cfc"
+hash = "2caeaf0ee64b4e349c82acf739bf47144001694e8e00e33cbcc734440626e86e"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
+hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
@@ -872,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a9aeaaedd47d724add417a08520589504fc7d56a5c0580db41d7b448ac3623d5"
+hash = "fca852b6e4581ffa88d4c890a307a0a49fbd51d6acaed6c3648cb5db8dc460e0"
 metafile = true
 
 [[files]]
@@ -982,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "700a0e3af8cff672248eeb4a264c5f5fb858a50eaf50622bf8ffd1e24b0c7692"
+hash = "6f089ffb4a3f23d2ce38b405a4636b22b71346af627f254da66f482be6a06b4a"
 metafile = true
 
 [[files]]
@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "c833f91ecbd1b6d9d14c0e2ce3810bc730756d07ec83397b0bb3d142ee9b927f"
+hash = "503a9d9b148aa94e7839d0024cccc918bdc321875037219aa35b370a51051db3"
 metafile = true
 
 [[files]]

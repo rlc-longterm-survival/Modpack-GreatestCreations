@@ -1,13 +1,16 @@
 name = "GreatestCreations-Twenty"
 author = "i@ak-ioi.com"
-version = "3.0.8"
+version = "3.0.9"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7f32ede2ef04d7eab31b9c5737b6334f9d4ba4145ce27821bb25cbab49fad543"
+hash = "edf20c49204d7ed9f710af20242cc8af37816cdf92598c9a88f42dfa189475d1"
 
 [versions]
 forge = "47.4.20"
 minecraft = "1.20.1"
+
+[options]
+acceptable-loaders = ["forge", "fabric"]
