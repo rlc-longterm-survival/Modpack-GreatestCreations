@@ -167,11 +167,6 @@ hash = "069bbf7ea4a127dd3de3eaf9428531e399136346a32765d2b808fd335029d717"
 metafile = true
 
 [[files]]
-file = "mods/accelerated-rendering.pw.toml"
-hash = "28ab481e34a4088ee8b52aa0f5aaab32fe871ca0190d44cf8d0dd59f6bb712d0"
-metafile = true
-
-[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "9e56c813c3000384bbb06f72500ea95b4407cd710143840a4a41440dbf1d8a1c"
 metafile = true
@@ -721,6 +716,11 @@ metafile = true
 [[files]]
 file = "mods/imblocker-original.pw.toml"
 hash = "08b72b66f4392d0995801ea80c95e3ec832863312a743f35c3420cca34b98627"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1a9564ded8e9cd1f843f9de7fc87ffbf73033aab51494205458b0e58cc0ab194"
 metafile = true
 
 [[files]]
