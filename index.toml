@@ -62,7 +62,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "d45914f98a054a140a1d5b247bd1a17d145426b88a1a80b9342c038861da0e6e"
+hash = "2a0baea63f88f00bb934109ebac46f1c3a2cc1451ab3517b875a4a43f3ff4da6"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -95,6 +95,10 @@ hash = "8e0a463bc3dce6cf05a115eb1c23370542f2f6e9e89204873084f2bf7fe724b8"
 [[files]]
 file = "config/servercore/optimizations.yml"
 hash = "fbb29b9bf5d8f90f58568cfae7f85220d84465d78d6a4dcbfbe3c15ffd172f8d"
+
+[[files]]
+file = "config/serverpause-common.toml"
+hash = "ccac76a1eb848670646fe7df51414502ec47c6ef3d7d163158cf29013f96f5c6"
 
 [[files]]
 file = "config/super_resolution/config.toml"
@@ -727,6 +731,11 @@ hash = "1f69aeecca99f8be5cc4c1d3e64c60de5a3da0c5f4d218971b307148684e74fc"
 metafile = true
 
 [[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "b5155604a98bb5fd86e378ebe636030ed76d799d83f98a9dbbbfcb534f503d30"
+metafile = true
+
+[[files]]
 file = "mods/imblocker-original.pw.toml"
 hash = "08b72b66f4392d0995801ea80c95e3ec832863312a743f35c3420cca34b98627"
 metafile = true
@@ -1217,6 +1226,11 @@ metafile = true
 [[files]]
 file = "mods/underwater-enchanting.pw.toml"
 hash = "a7911beb9ad2c2dced1e79843e034de0ba4e9ab85b4cbb7e9b88ceb41ea7be62"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies-2-+-supplementaries-cannon-fix.pw.toml"
+hash = "7165c846ee980d8705b1d23d61f5d0869afbdae46dc1bd62f46cf4753c28c0f2"
 metafile = true
 
 [[files]]
