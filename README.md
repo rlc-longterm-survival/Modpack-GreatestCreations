@@ -133,15 +133,17 @@ source build/envsetup.sh
 >
 > ——2026/10/12
 
-#### 服务端 — 导出 + 启动器导入
+#### 服务端 — 伺服 + `packwiz-installer`
 
 先手动安装好[正确 MC 版本和 Forge 版本](./pack.toml)的空白服务端。然后，[下载 packwiz-installer-bootstrap.jar](https://github.com/packwiz/packwiz-installer-bootstrap/releases) 到服务端文件夹中。
 
-在仓库伺服开启状态下，执行 `java -jar packwiz-installer-bootstrap.jar -g -s server http://localhost:<port>/pack.toml`。
+在仓库伺服开启状态下，执行 `java -jar packwiz-installer-bootstrap.jar -g -s server http://localhost:<port>/pack.toml` 安装整合包或将其更新到最新状态。
 
 - 其中 `-g` 表示不显示 GUI；
-- `-s server` 表示安装服务端（会自动剔除 `side = "client"` 的 `pw.toml` 文件）；
+- `-s server` 表示安装服务端（会自动剔除 `side = "client"` 的 `.pw.toml` 文件）；
 - `<port>` 是伺服的端口号。
+
+测试环境下，为方便，可修改服务器启动脚本，每次启动前都执行上述安装命令。
 
 ### `mods-sorted` 文件夹的额外说明
 
