@@ -1,0 +1,13 @@
+name = "Civillis Technology Compatibility"
+filename = "civilis_technology-1.0.2-universal-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TZBlTKuM/versions/5HgRR2oU/civilis_technology-1.0.2-universal-1.20.1.jar"
+hash-format = "sha512"
+hash = "9f4795b213e0c6bdc30925c56b1c3f76578bec190586527831c84424203df0ff0afe13a4b6aa42462d9c26d3f29dc119351ea6d4a4b22a90b513bb412673b82f"
+
+[update]
+[update.modrinth]
+mod-id = "TZBlTKuM"
+version = "5HgRR2oU"

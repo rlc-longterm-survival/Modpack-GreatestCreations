@@ -1,0 +1,13 @@
+name = "Civillis Magic Compatibility"
+filename = "civilis_magic-1.0.1-universal-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v6CJUlGR/versions/jtLV067P/civilis_magic-1.0.1-universal-1.20.1.jar"
+hash-format = "sha512"
+hash = "cd541d67f5015be2fcfc78a7d4d6e7cf63f04784667bee619a073ca61979f522b15f3d3baeb12c4755e958410e0d4a509040d918d79d3d102e8ac40f46233994"
+
+[update]
+[update.modrinth]
+mod-id = "v6CJUlGR"
+version = "jtLV067P"

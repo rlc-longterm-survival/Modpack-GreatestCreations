@@ -62,7 +62,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "8611e991935e1fdb6e52d06a5ca463e5032c6ca6fa604141d59e900719d678c8"
+hash = "acf749ff4995cc8bc5a15b49a6b7c4adf8d4cbe9e6a643ed90f8b17dfa20f4a2"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -301,6 +301,16 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
+metafile = true
+
+[[files]]
+file = "mods/civillis-magic-compatibility.pw.toml"
+hash = "cc40ca47a1505b083af6296816dc2a3b7f49546b4a534df3df7c46a81a3340cb"
+metafile = true
+
+[[files]]
+file = "mods/civillis-technology-compatibility.pw.toml"
+hash = "dd8c61e712b27b9a1b0a663b30055e762324e793ee3a85fe90aebcc387939f05"
 metafile = true
 
 [[files]]
