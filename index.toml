@@ -62,7 +62,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "2a0baea63f88f00bb934109ebac46f1c3a2cc1451ab3517b875a4a43f3ff4da6"
+hash = "8611e991935e1fdb6e52d06a5ca463e5032c6ca6fa604141d59e900719d678c8"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -154,7 +154,7 @@ hash = "0577fb0542595b00e4ea9bc65b3d316af2db0fb5be02361f15ea34af70badb59"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/hexcasting-building-blocks.js"
-hash = "53a23c63801000237794318386600e997044c00cbe7e748e61dbc3c266775f14"
+hash = "d4cd31edcc00e010982b4ee68711c4542d703c62026c39b26365ce2a37533e78"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/resetIntegratedCircuit.js"
