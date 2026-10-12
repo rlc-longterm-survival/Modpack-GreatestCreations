@@ -42,9 +42,10 @@ source build/envsetup.sh
 - `refresh`：手动增删、编辑、移动文件后刷新衍生文件及索引。代替 `packwiz refresh`。
   - 如果确信修改不影响衍生文件，也可直接使用 `packwiz refresh`。
 
-- `build`：导出 Modrinth 格式整合包，构建产物在 `dist/` 中。
+- `build`：导出 Modrinth 格式整合包，构建产物在 `dist/` 中。代替 `packwiz modrinth export`。
 
-- `serve`：伺服，即启动本地服务端提供整合包文件，以便通过 packwiz-installer 进行安装。
+- `serve`：伺服，即启动本地服务端提供整合包文件，以便通过 packwiz-installer 进行安装。代替 `packwiz serve`。
+  - 可使用 `PORT`（大写）环境变量覆盖默认端口号。
 
 - `addmod <platform> <specifier> <path>`：添加模组（只能添加模组，而非其他类型内容），并在添加后归入 `mods-sorted` 中指定子文件夹。代替 `packwiz <platform> add <specifier>`（只会将模组添加到 `mods`，不会归入 `mods-sorted` 中）。
   - `<platform>`：模组下载平台，`curseforge` (`cf`) 或 `modrinth` (`mr`)。
