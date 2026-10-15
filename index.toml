@@ -62,7 +62,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "acf749ff4995cc8bc5a15b49a6b7c4adf8d4cbe9e6a643ed90f8b17dfa20f4a2"
+hash = "91cd83cacdbe829a0088c2ea179c4e201898d3f567b329ab729d83c9407556c5"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -1153,6 +1153,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
 metafile = true
 
 [[files]]
