@@ -1,0 +1,6 @@
+[general]
+	[general.rendering]
+		# Breaks translucent & entity layer rendering order.
+        # (Block entities and transparent blocks always rendering on top of transparent contraptions)
+        # (disabling this still does not help)
+		enabled = false

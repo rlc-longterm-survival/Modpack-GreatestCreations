@@ -57,12 +57,16 @@ file = "config/create_interactive-common.toml"
 hash = "a08dab3a726fb443038ffc6e80dacaa66013194acf47be9704b28b8be23ec47e"
 
 [[files]]
+file = "config/create_optimized_trains-common.toml"
+hash = "7f9f17ede6059150af231b001bd833d8fcb981eb35bb1e4bdd17ea42273296c3"
+
+[[files]]
 file = "config/cubes_without_borders.json"
 hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "f14cb794031d1689a2714b09b9f4708161be76ec85e4070635ae6289873a05fe"
+hash = "90b7c533eb919abe4bc51abc5d07aac3506ca303f9a5b41fbf59b1563ffdae82"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -171,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/QUIRKS.md"
-hash = "acad613a49f68d985e65fcd8e473cffbdcb7d4b27c15ffd23f9965c557b54ddc"
+hash = "50ce3a38cb6acde7654856f08ca1a7d89d9cef1f426df8f6d7ea0f84f7aa6bbe"
 
 [[files]]
 file = "mods/accelerated-recoiling.pw.toml"
@@ -430,11 +434,6 @@ metafile = true
 [[files]]
 file = "mods/create-nowheel.pw.toml"
 hash = "ddd54e48bb87f559028d1cd57f3af1ac183e2e1c4332af4768cb44e53be83a48"
-metafile = true
-
-[[files]]
-file = "mods/create-optimized-trains.pw.toml"
-hash = "4fb49d4c04a8eccc7db98f5392367ebc9920e1feadc28c8bd550cd6ce01c2a91"
 metafile = true
 
 [[files]]
