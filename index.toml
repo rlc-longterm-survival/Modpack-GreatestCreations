@@ -61,12 +61,16 @@ file = "config/create_optimized_trains-common.toml"
 hash = "7f9f17ede6059150af231b001bd833d8fcb981eb35bb1e4bdd17ea42273296c3"
 
 [[files]]
+file = "config/createlazytick-server.toml"
+hash = "03e01b092a9bc6f2df24a5bf52f57a1409aedca4223bec32cf90d8da5f142482"
+
+[[files]]
 file = "config/cubes_without_borders.json"
 hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "90b7c533eb919abe4bc51abc5d07aac3506ca303f9a5b41fbf59b1563ffdae82"
+hash = "eb7daa7b1aab5902f62b816f98a2dc884bff7b695acf0f03145598f4b05a3ddd"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"

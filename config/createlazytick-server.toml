@@ -1,0 +1,28 @@
+
+[logistics]
+	enable_funnel_overclock = true
+	funnel_delay_max = 25
+	chute_delay_max = 25
+	belt_delay_max = 25
+
+[processing]
+	depot_delay_max = 25
+	saw_delay_max = 25
+	item_drain_delay_max = 25
+
+[factory-gauge]
+	factory_gauge_stable_delay_max = 50
+
+[arm]
+	arm_delay_max = 25
+
+[lazytick-clock]
+	clock_mode_sequence = [0, 100]
+	#
+	#--------------------------------------------------------------------------
+	# [Clock Item] Default Mode Preference
+	# Determines which mode the clock item will adjust when right-clicking.
+	#   true  = Dynamic Mode (Adjusts the dynamic optimization limit %)
+	#   false = Forced Mode (Adjusts the fixed sleep interval %)
+	clock_mode_default_dynamic = true
+
