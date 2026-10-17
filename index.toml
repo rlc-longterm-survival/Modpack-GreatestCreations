@@ -101,6 +101,10 @@ file = "config/jei/jei-client.ini"
 hash = "d2be5f7b6c0146230d0d66d1839150db3879039c064000d04cb7ffd5821ac1d2"
 
 [[files]]
+file = "config/jmsharedmaps-server.toml"
+hash = "c94024203eabd50e76edc35fa43e23e6f11530db382268229d9be1a4cbe9a433"
+
+[[files]]
 file = "config/packetfixer.properties"
 hash = "09638c56037151a4de8fcabb4cd1516a672ce2256473988d7e14e750502e7422"
 
@@ -187,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/QUIRKS.md"
-hash = "50ce3a38cb6acde7654856f08ca1a7d89d9cef1f426df8f6d7ea0f84f7aa6bbe"
+hash = "4a59add544f6a9d41190c8f834a7a09d11ed5daf6ebce94e55b63767d66489e2"
 
 [[files]]
 file = "mods/accelerated-recoiling.pw.toml"

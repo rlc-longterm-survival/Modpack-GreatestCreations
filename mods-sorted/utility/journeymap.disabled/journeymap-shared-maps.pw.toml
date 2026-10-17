@@ -1,0 +1,13 @@
+name = "JourneyMap Shared Maps"
+filename = "jmsharedmaps-1.7.1-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xHyp5AYg/versions/d9nEXECz/jmsharedmaps-1.7.1-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "8ccf5726137a604f7aa89bcc08b4356ae050ca0979b4440bdd340f54f6580af091322e6d1a3f509c644c24694ffab5c039510d33273bf229af0d27143a1a7111"
+
+[update]
+[update.modrinth]
+mod-id = "xHyp5AYg"
+version = "d9nEXECz"
