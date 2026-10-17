@@ -3,6 +3,7 @@
 	enable_funnel_overclock = true
 	funnel_delay_max = 25
 	chute_delay_max = 25
+	enable_lazy_belt = false
 	belt_delay_max = 25
 
 [processing]
