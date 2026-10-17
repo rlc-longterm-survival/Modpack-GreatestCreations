@@ -1,0 +1,13 @@
+name = "Surveyor Atlases"
+filename = "surveyor-atlases-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y6W5iysH/versions/xtsjXfK1/surveyor-atlases-0.2.1.jar"
+hash-format = "sha512"
+hash = "ba01f5c43a587241e530c93a4efc713c692cc843fde934b5406c97a662c0157050ff651588aec7b9ea70e44eda814f1d8afc7e3809403ebbc20c390560630f99"
+
+[update]
+[update.modrinth]
+mod-id = "Y6W5iysH"
+version = "xtsjXfK1"

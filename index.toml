@@ -62,7 +62,7 @@ hash = "7f9f17ede6059150af231b001bd833d8fcb981eb35bb1e4bdd17ea42273296c3"
 
 [[files]]
 file = "config/createlazytick-server.toml"
-hash = "03e01b092a9bc6f2df24a5bf52f57a1409aedca4223bec32cf90d8da5f142482"
+hash = "bed93e128e83a217fa6bca386c8d35f28f4e69def6c69fe79e0678a0cadb3671"
 
 [[files]]
 file = "config/cubes_without_borders.json"
@@ -70,7 +70,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "eb7daa7b1aab5902f62b816f98a2dc884bff7b695acf0f03145598f4b05a3ddd"
+hash = "dfd84863963a6685e03e0600a2c29426768c6905b352c4925ff7c739bc05a0b8"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -87,6 +87,14 @@ hash = "392830df9de14d708e92b8de09d4ffb6e928f287862e6b4ad97cad2982a05e37"
 [[files]]
 file = "config/fml.toml"
 hash = "ed23f307a1111179b9be35031e64f8d76a9a5fb71bb891e5e9b3f62d6e2702da"
+
+[[files]]
+file = "config/immersiveminimaps.toml"
+hash = "8f51dab38b052a80646c0b16ac801bd2b7fd88c39da87bb72e13bbc2fead1ceb"
+
+[[files]]
+file = "config/immersiveoverlays.json"
+hash = "b90c4b1417dbfc300702fe6698458086a78628e6ec288d83d2fd6199c86e6492"
 
 [[files]]
 file = "config/jei/jei-client.ini"
@@ -214,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "5922845f6c9bb57548eca500857ebd2268bffe3799373b7306c2bdfb706d5f95"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "462711ce0b01972d8c08e2501860015ecc1b0c4df9ffad951de43b4dab393462"
 metafile = true
 
 [[files]]
@@ -516,6 +529,11 @@ hash = "6d4918034cea00c77f803f8b98747d23471f0feacef3f82f796036250e30df40"
 metafile = true
 
 [[files]]
+file = "mods/dhsnowfix.pw.toml"
+hash = "02cc2db0bd9181ca7bd042bd678108e203cf29c1c99289ff1a60b847cbdac49d"
+metafile = true
+
+[[files]]
 file = "mods/dimension-leak-fix.pw.toml"
 hash = "0fba87adfeb54a29fcbc0dbf642ab7861d84bda34b31da3f67d497bb0c8702de"
 metafile = true
@@ -734,6 +752,11 @@ hash = "d532be6a459fdd3e1437727067ab76c984609f4663803af79c7d5e3c1748798d"
 metafile = true
 
 [[files]]
+file = "mods/hoofprint.pw.toml"
+hash = "189d433785d954e85b270c47788e0eedec99dfbcc2d6697c230d6d935fe37494"
+metafile = true
+
+[[files]]
 file = "mods/i18nupdatemod.pw.toml"
 hash = "f596d49b8d8a5ce74b39bfb9dd140175ae97b30e822c113cdc5c093926177426"
 metafile = true
@@ -756,6 +779,16 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1a9564ded8e9cd1f843f9de7fc87ffbf73033aab51494205458b0e58cc0ab194"
+metafile = true
+
+[[files]]
+file = "mods/immersive-minimaps.pw.toml"
+hash = "b853c47a5bc6d3f61a4c38a134337697c843851f35f8efd2c14efd1a1398e74d"
+metafile = true
+
+[[files]]
+file = "mods/immersive-overlays.pw.toml"
+hash = "3cd403d2fd883b7722fbeb0249acb28687d548b827ace4070a9e7b302b4ea503"
 metafile = true
 
 [[files]]
@@ -809,21 +842,6 @@ hash = "df724beef20c6a6458b6eced0a36d6ac72dffe00849676f80bdf328207f6d061"
 metafile = true
 
 [[files]]
-file = "mods/journeymap-integration.pw.toml"
-hash = "bcadb2b328a40f662615deb17ce40cc09fbc9cd8254a3d9bbf16c109899bd214"
-metafile = true
-
-[[files]]
-file = "mods/journeymap-web-map.pw.toml"
-hash = "7a320aa373cc34a115589f4741246826307149335ee877ce9ddad14d2288328a"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "71146e24bb1192ae23ba5b27dd2905a43cce93161b0a58f762cd20b81fe0fb35"
-metafile = true
-
-[[files]]
 file = "mods/justenoughcharacters.pw.toml"
 hash = "d799905042fec598a8178446b0bbf6e4fb3f478bfb4f8db0b1e0aae686ec2bd4"
 metafile = true
@@ -831,6 +849,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-lang-forge.pw.toml"
+hash = "1e642cc0591c3ec324d7511eb2ff3be5b37e7c1f085dd322a7adf25486c56844"
 metafile = true
 
 [[files]]
@@ -874,8 +897,8 @@ hash = "e0d14709c8d5b32a0ceade7c020ea4304f1900129c31c6ac2fe06ff75edb7265"
 metafile = true
 
 [[files]]
-file = "mods/mapfrontiers.pw.toml"
-hash = "d9372d1d29329a0f3461654dfa0a88d5a3a35c3126e3872844c8c5d7bb61c60c"
+file = "mods/mcqoy.pw.toml"
+hash = "4060d5afd849f988fab9dd602998144180149f547f6f5052ab7f12538f84d49c"
 metafile = true
 
 [[files]]
@@ -936,6 +959,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "d97b2c61007a7da2c4b506b7686f7308f23aabc06a8f292825746246e47dc094"
 metafile = true
 
 [[files]]
@@ -1061,6 +1089,11 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "283faf9566f71aad6e8fdb646bb7b42678c05b102acc2ce9e75fe1ec665ad378"
+metafile = true
+
+[[files]]
+file = "mods/preloading-tricks.pw.toml"
+hash = "47df56151edc42973e345aded790f8e47118911ef4011bcc5c3003dd9a254ffb"
 metafile = true
 
 [[files]]
@@ -1195,6 +1228,16 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "168b3ee3fa2fe18f712c593d9d90e8b3a8a6a10564376af98bcc6f9719506641"
+metafile = true
+
+[[files]]
+file = "mods/surveyor-atlases.pw.toml"
+hash = "c96d3c7cb385567f424eca79cb92f5aa5e57f672b520f3323708c34b6a587884"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "fb69c986964628b74a5287f8128f17d1f1fb4aef9c18e610cbb389bfe6dddb47"
 metafile = true
 
 [[files]]
@@ -1363,7 +1406,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "659015fedeaf47d420a32c6e94c0ce9092f708f8e9a0e779bf86ede9eabb5be5"
+hash = "863916b56c6b8d6c2c2967390341bd56bc6a6dca567437f33ea0313fb178ce5d"
 
 [[files]]
 file = "resourcepacks/English Additions.zip"

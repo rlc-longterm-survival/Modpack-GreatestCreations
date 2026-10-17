@@ -1,0 +1,7 @@
+[requirements]
+	items = ["minecraft:map", "minecraft:filled_map"]
+
+# Options to change the visuals of the map to be more or less vanilla-style.
+[style]
+	size = 80
+	left_align = true

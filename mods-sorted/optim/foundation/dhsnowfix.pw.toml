@@ -1,0 +1,13 @@
+name = "DHSnowFix"
+filename = "DHSnowFix-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hHXKKO8m/versions/svjKscpG/DHSnowFix-1.20.1-1.0.jar"
+hash-format = "sha512"
+hash = "84ca9cc5c3da79d54a3899928c266ed670fe1d01a1c69547d3dcfe4c1b457713ced8b8bc4ffe649d7720e0d96020745792c57bd4ec3a8021ac5f51ae8c108e92"
+
+[update]
+[update.modrinth]
+mod-id = "hHXKKO8m"
+version = "svjKscpG"
