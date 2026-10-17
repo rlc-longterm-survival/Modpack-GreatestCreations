@@ -46,7 +46,7 @@ key_iris.keybind.toggleShaders:key.keyboard.k:CONTROL
 key_iris.keybind.shaderPackSelection:key.keyboard.o:CONTROL
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
-key_key.immersiveoverlays.toggle:key.keyboard.unknown
+key_key.immersiveoverlays.toggle:key.keyboard.left.bracket
 key_key.immersiveoverlays.settings:key.keyboard.unknown
 key_key.super_resolution.open_config:key.keyboard.f6:CONTROL
 key_key.valkyrienskies.ship_down:key.keyboard.v
