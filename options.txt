@@ -89,6 +89,7 @@ key_orthocamera.key.fixed_camera_rotate_right:key.keyboard.keypad.4
 key_key.hexical.open_hexbook:key.keyboard.e
 key_key.hexical.evoke:key.keyboard.r:ALT
 key_key.hexical.telepathy:key.keyboard.g
+key_key.antique_atlas.open:key.keyboard.n
 key_key.hexcassettes.ponder_cassette:key.keyboard.g:ALT
 key_key.hoofprint.open:key.keyboard.m
 key_key.immersiveminimaps.zoom_in:key.keyboard.equal
