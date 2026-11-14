@@ -70,7 +70,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "f81c0621a329ee112074a74623afba90f8815365ccf1580f8276165f54992026"
+hash = "1d410c10f2e3bfbf2c2add8ce79b164d6d8c0845ba623de51e895ac9cc532c68"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -1410,7 +1410,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "95c914e9823cf0567534a46e8a3cb73315535bce73218a45b4e3737b126ddbc0"
+hash = "3d8ffe61bbbd635e9b98e6bc72c7fd148cf00902417ef4b1e4d898d8dc55c067"
 
 [[files]]
 file = "resourcepacks/English Additions.zip"
