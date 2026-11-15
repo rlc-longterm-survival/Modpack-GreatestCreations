@@ -6,6 +6,7 @@ _version = 5
 	[common.logging]
 		[common.logging.warning]
 			showGarbageCollectorWarning = false
+			showModCompatibilityWarningsOnStartup = false
 
 [client]
 		[client.advanced.graphics]

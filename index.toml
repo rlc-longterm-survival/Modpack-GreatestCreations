@@ -6,7 +6,7 @@ hash = "a6cb49797c873ae8da721dc4f929ebed97a8b500bb34ffd9a31b51ed6e1419e8"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "a39dbd70d94b1804e669057617e570f2a5db2525315d84882b258edbc950e1bc"
+hash = "c0898cd424496c7948bcd561d4f870abe639a8ac99579f811ca488ce917af783"
 
 [[files]]
 file = "config/ModernUI/bootstrap.properties"
@@ -70,7 +70,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "1d410c10f2e3bfbf2c2add8ce79b164d6d8c0845ba623de51e895ac9cc532c68"
+hash = "e455db75b511ed2907f099613def5c593fb9750da6d9b9f8eaed1c655549955c"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -324,6 +324,11 @@ hash = "b6a8b6ac9a53bca21a29f7dc7620b22db71d1360936cdd8a61dd460ea6817108"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
 metafile = true
@@ -549,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "084a056c8eca61bdfcb53d7a9ae05693e27ea856256d783cd7757612df125ee5"
+hash = "9a8c75daa18fa94110dd7be9d63b449a93f97a1e7b0dad37536409c9af987ea8"
 metafile = true
 
 [[files]]
