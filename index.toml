@@ -6,7 +6,7 @@ hash = "a6cb49797c873ae8da721dc4f929ebed97a8b500bb34ffd9a31b51ed6e1419e8"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "ab9e41025bf4eee9984dd6ddd42c81a6bd5dd8063ee7cc14b3bc1039f1be2dc7"
+hash = "c0773de6abc148a7f0a645838f5acdd734dfcfc15f8815bf9e3b9cb1129b0d07"
 
 [[files]]
 file = "config/ModernUI/bootstrap.properties"

@@ -1,7 +1,7 @@
 _version = 4
 
 [server]
-	realTimeUpdateDistanceRadiusInChunks = 128
+	realTimeUpdateDistanceRadiusInChunks = 64
 
 	[common.logging]
 		[common.logging.warning]
@@ -11,6 +11,6 @@ _version = 4
 [client]
 		[client.advanced.graphics]
 			[client.advanced.graphics.quality]
-				lodChunkRenderDistanceRadius = 128
+				lodChunkRenderDistanceRadius = 64
 			[client.advanced.graphics.culling]
 				enableCaveCulling = false
