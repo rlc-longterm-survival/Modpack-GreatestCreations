@@ -6,11 +6,18 @@ _version = 4
 	[common.logging]
 		[common.logging.warning]
 			showGarbageCollectorWarning = false
+			# Known non-critical issue with Chunky
 			showModCompatibilityWarningsOnStartup = false
+
+	[common.worldGenerator]
+		# With Tectonic, SURFACE is almost as slow as CHUNKS,
+		# so SURFACE_THEN_CHUNKS will virtually double the work without providing any advantage.
+		generatorPlan = "CHUNKS_ONLY"
 
 [client]
 		[client.advanced.graphics]
 			[client.advanced.graphics.quality]
 				lodChunkRenderDistanceRadius = 64
 			[client.advanced.graphics.culling]
+				# Use LOD even when in caves. Otherwise we will see weird artifacts.
 				enableCaveCulling = false
