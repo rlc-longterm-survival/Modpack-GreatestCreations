@@ -70,7 +70,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "ff9e6928745fcb6c2a3a20e3ac051c03ed24471e21916bc2b8263927cd233fe8"
+hash = "2ef2d576773fb7d196f122c283e22cfd4766cf67f488eec071ead412902f9273"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -110,7 +110,7 @@ hash = "09638c56037151a4de8fcabb4cd1516a672ce2256473988d7e14e750502e7422"
 
 [[files]]
 file = "config/servercore/config.yml"
-hash = "8e0a463bc3dce6cf05a115eb1c23370542f2f6e9e89204873084f2bf7fe724b8"
+hash = "b77d96abc8274a4fc174d109c2270837140035e61700b00193f3d24f295d781f"
 
 [[files]]
 file = "config/servercore/optimizations.yml"
