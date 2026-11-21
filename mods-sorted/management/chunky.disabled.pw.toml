@@ -1,0 +1,20 @@
+name = "Chunky"
+# Yes we ship a disabled-by-default Chunky jar.
+# It conflicts with the current Distant Horizons:
+#   - DH 3.3.3: Crashes.
+#   - DH pre-3.3.3: Chunky will make DH unable to generate DH for unloaded areas.
+# One should only temporarily enable this (and disable DH) when performantly
+# pregenerating the world (when no other players are online) is desired, and
+# then re-enable DH (disabling Chunky) to complete the `/dh pregen`.
+filename = "Chunky-1.3.146.jar.disabled"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.jar"
+hash-format = "sha512"
+hash = "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9"
+
+[update]
+[update.modrinth]
+mod-id = "fALzjamp"
+version = "4FTDk9wv"

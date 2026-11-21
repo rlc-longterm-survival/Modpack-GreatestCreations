@@ -1,4 +1,4 @@
-_version = 4
+_version = 5
 
 [server]
 	realTimeUpdateDistanceRadiusInChunks = 64
@@ -6,8 +6,6 @@ _version = 4
 	[common.logging]
 		[common.logging.warning]
 			showGarbageCollectorWarning = false
-			# Known non-critical issue with Chunky
-			showModCompatibilityWarningsOnStartup = false
 
 	[common.worldGenerator]
 		# With Tectonic, SURFACE is almost as slow as CHUNKS,

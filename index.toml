@@ -6,7 +6,7 @@ hash = "a6cb49797c873ae8da721dc4f929ebed97a8b500bb34ffd9a31b51ed6e1419e8"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "5bce5e41121837317d527d00f3d75d517ed7c9812e5f189d5e76200bfcafb69a"
+hash = "a948e92652044c05914cfdea95cd0c818467d0ba10ca548d7bde250db81f4250"
 
 [[files]]
 file = "config/ModernUI/bootstrap.properties"
@@ -70,7 +70,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "2ef2d576773fb7d196f122c283e22cfd4766cf67f488eec071ead412902f9273"
+hash = "ef40559bf9b4877c5f48fabfa0c21b4c32128ef7f2f56794a3f64bcb600f167e"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/QUIRKS.md"
-hash = "4a59add544f6a9d41190c8f834a7a09d11ed5daf6ebce94e55b63767d66489e2"
+hash = "605cd5450388cd5755ad34171d8fa7646d49540f4421d1075cc474d8dbd632ea"
 
 [[files]]
 file = "mods/accelerated-recoiling.pw.toml"
@@ -324,8 +324,8 @@ hash = "b6a8b6ac9a53bca21a29f7dc7620b22db71d1360936cdd8a61dd460ea6817108"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
+file = "mods/chunky.disabled.pw.toml"
+hash = "ba673e163acfce3931b6538d62f0e9e32b712c485d789be1d43f95c3e9a1491e"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "9a8c75daa18fa94110dd7be9d63b449a93f97a1e7b0dad37536409c9af987ea8"
+hash = "084a056c8eca61bdfcb53d7a9ae05693e27ea856256d783cd7757612df125ee5"
 metafile = true
 
 [[files]]
