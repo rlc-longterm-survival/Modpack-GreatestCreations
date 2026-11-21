@@ -8,9 +8,8 @@ _version = 5
 			showGarbageCollectorWarning = false
 
 	[common.worldGenerator]
-		# With Tectonic, SURFACE is almost as slow as CHUNKS,
-		# so SURFACE_THEN_CHUNKS will virtually double the work without providing any advantage.
-		generatorPlan = "CHUNKS_ONLY"
+		# SURFACE_THEN_CHUNKS can generate visible shape much faster.
+		generatorPlan = "SURFACE_THEN_CHUNKS"
 
 [client]
 		[client.advanced.graphics]

@@ -6,7 +6,7 @@ hash = "a6cb49797c873ae8da721dc4f929ebed97a8b500bb34ffd9a31b51ed6e1419e8"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "8ff5d079a51548584053fabc8d8bb0796f76f3119f295e6e4f75a93906adf44d"
+hash = "cafa0ff5b2d6668c4388394dfe0921e77d90d5468304908ae14e328ea435fec0"
 
 [[files]]
 file = "config/ModernUI/bootstrap.properties"
@@ -70,7 +70,7 @@ hash = "f347d1f1bbeb79834a196c514a17435968d5fc7a13a8065acb905ef9194728ea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "10e24bf71bcdbfbdbb87d785baa9ef21ce11c19445ab9414fdec7b104a524245"
+hash = "c1e35de6d6815bfc42097277e48f8215e1c13d1470398f21893702855b922f7f"
 
 [[files]]
 file = "config/dew_drop_daily_weather-server.toml"
