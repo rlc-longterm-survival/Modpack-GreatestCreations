@@ -1,12 +1,12 @@
 name = "GreatestCreations-Twenty"
 author = "i@ak-ioi.com"
-version = "3.3.6"
+version = "3.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "62146e8bb15c32a9942ae270958abee09d3bbac99b034c49121bccbc05d481d0"
+hash = "81ceb48cab254d359d7bd2bd89770b672970c5064bf728d2ab2214619a9cb966"
 
 [versions]
 forge = "47.4.20"
